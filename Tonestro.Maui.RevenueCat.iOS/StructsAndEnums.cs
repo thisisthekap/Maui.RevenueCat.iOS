@@ -133,6 +133,13 @@ public enum RCPurchaseOwnershipType : long
 }
 
 [Native]
+public enum RCPurchasesAreCompletedBy : long
+{
+    RevenueCat = 0,
+    MyApp = 1,
+}
+
+[Native]
 public enum RCRefundRequestStatus : long
 {
     UserCancelled = 0,
@@ -150,6 +157,15 @@ public enum RCStore : long
     Promotional = 4,
     UnknownStore = 5,
     Amazon = 6,
+    Billing = 7,
+    External = 8,
+}
+
+[Native]
+public enum RCStoreKitVersion : long
+{
+    RCStoreKitVersion1 = 1,
+    RCStoreKitVersion2 = 2,
 }
 
 [Native]
