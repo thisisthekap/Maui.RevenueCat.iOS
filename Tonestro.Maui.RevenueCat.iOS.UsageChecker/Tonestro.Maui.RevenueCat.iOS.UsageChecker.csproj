@@ -6,12 +6,6 @@
         <ImplicitUsings>true</ImplicitUsings>
         <SupportedOSPlatformVersion>15.0</SupportedOSPlatformVersion>
     </PropertyGroup>
-    <PropertyGroup Condition="'$(TargetiOSDevice)' == ''">
-        <RuntimeIdentifier>iossimulator-x64</RuntimeIdentifier>
-    </PropertyGroup>
-    <PropertyGroup Condition="'$(TargetiOSDevice)' != ''">
-        <RuntimeIdentifier>ios-arm64</RuntimeIdentifier>
-    </PropertyGroup>
     <ItemGroup>
         <ProjectReference Include="..\Tonestro.Maui.RevenueCat.iOS.Extensions\Tonestro.Maui.RevenueCat.iOS.Extensions.csproj" />
         <ProjectReference Include="..\Tonestro.Maui.RevenueCat.iOS\Tonestro.Maui.RevenueCat.iOS.csproj" />

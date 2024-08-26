@@ -737,6 +737,10 @@ public struct PaywallData {
     get
     set
   }
+  public var zeroDecimalPlaceCountries: [Swift.String] {
+    get
+  }
+  public var defaultLocale: Swift.String?
 }
 public protocol PaywallLocalizedConfiguration {
   var title: Swift.String { get }
@@ -748,6 +752,19 @@ public protocol PaywallLocalizedConfiguration {
   var offerName: Swift.String? { get }
   var features: [RevenueCat.PaywallData.LocalizedConfiguration.Feature] { get }
   var tierName: Swift.String? { get }
+}
+extension RevenueCat.PaywallData {
+  public struct ZeroDecimalPlaceCountries : Swift.Codable, Swift.Sendable, Swift.Hashable, Swift.Equatable {
+    public var apple: [Swift.String]
+    public init(apple: [Swift.String])
+    public func hash(into hasher: inout Swift.Hasher)
+    public static func == (a: RevenueCat.PaywallData.ZeroDecimalPlaceCountries, b: RevenueCat.PaywallData.ZeroDecimalPlaceCountries) -> Swift.Bool
+    public func encode(to encoder: any Swift.Encoder) throws
+    public var hashValue: Swift.Int {
+      get
+    }
+    public init(from decoder: any Swift.Decoder) throws
+  }
 }
 extension RevenueCat.PaywallData {
   public struct LocalizedConfiguration : RevenueCat.PaywallLocalizedConfiguration {
@@ -905,8 +922,8 @@ extension RevenueCat.PaywallData {
   }
 }
 extension RevenueCat.PaywallData {
-  public init(templateName: Swift.String, config: RevenueCat.PaywallData.Configuration, localization: RevenueCat.PaywallData.LocalizedConfiguration, assetBaseURL: Foundation.URL, revision: Swift.Int = 0, locale: Foundation.Locale = .current)
-  public init(templateName: Swift.String, config: RevenueCat.PaywallData.Configuration, localizationByTier: [Swift.String : RevenueCat.PaywallData.LocalizedConfiguration], assetBaseURL: Foundation.URL, revision: Swift.Int = 0, locale: Foundation.Locale = .current)
+  public init(templateName: Swift.String, config: RevenueCat.PaywallData.Configuration, localization: RevenueCat.PaywallData.LocalizedConfiguration, assetBaseURL: Foundation.URL, revision: Swift.Int = 0, locale: Foundation.Locale = .current, zeroDecimalPlaceCountries: [Swift.String] = [])
+  public init(templateName: Swift.String, config: RevenueCat.PaywallData.Configuration, localizationByTier: [Swift.String : RevenueCat.PaywallData.LocalizedConfiguration], assetBaseURL: Foundation.URL, revision: Swift.Int = 0, locale: Foundation.Locale = .current, zeroDecimalPlaceCountries: [Swift.String] = [])
 }
 extension RevenueCat.PaywallData.LocalizedConfiguration.Feature : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws
@@ -1743,6 +1760,9 @@ public typealias StartPurchaseBlock = (@escaping RevenueCat.PurchaseCompletedBlo
     @objc get
     @objc set
   }
+  @objc final public var storeFrontCountryCode: Swift.String? {
+    @objc get
+  }
   @objc deinit
 }
 extension RevenueCat.Purchases {
@@ -1993,6 +2013,9 @@ extension RevenueCat.TestStoreProduct {
   public func toStoreProduct() -> RevenueCat.StoreProduct
 }
 extension RevenueCat.PaywallData {
+  public var locale: Foundation.Locale? {
+    get
+  }
   public var localizedConfiguration: RevenueCat.PaywallData.LocalizedConfiguration? {
     get
   }

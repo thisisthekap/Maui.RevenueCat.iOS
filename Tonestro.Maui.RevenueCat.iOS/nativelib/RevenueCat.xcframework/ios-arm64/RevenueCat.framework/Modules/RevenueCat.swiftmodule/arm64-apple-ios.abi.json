@@ -6723,6 +6723,521 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "zeroDecimalPlaceCountries",
+            "printedName": "zeroDecimalPlaceCountries",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10RevenueCat11PaywallDataV25zeroDecimalPlaceCountriesSaySSGvp",
+            "mangledName": "$s10RevenueCat11PaywallDataV25zeroDecimalPlaceCountriesSaySSGvp",
+            "moduleName": "RevenueCat",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10RevenueCat11PaywallDataV25zeroDecimalPlaceCountriesSaySSGvg",
+                "mangledName": "$s10RevenueCat11PaywallDataV25zeroDecimalPlaceCountriesSaySSGvg",
+                "moduleName": "RevenueCat",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "defaultLocale",
+            "printedName": "defaultLocale",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10RevenueCat11PaywallDataV13defaultLocaleSSSgvp",
+            "mangledName": "$s10RevenueCat11PaywallDataV13defaultLocaleSSSgvp",
+            "moduleName": "RevenueCat",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10RevenueCat11PaywallDataV13defaultLocaleSSSgvg",
+                "mangledName": "$s10RevenueCat11PaywallDataV13defaultLocaleSSSgvg",
+                "moduleName": "RevenueCat",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10RevenueCat11PaywallDataV13defaultLocaleSSSgvs",
+                "mangledName": "$s10RevenueCat11PaywallDataV13defaultLocaleSSSgvs",
+                "moduleName": "RevenueCat",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10RevenueCat11PaywallDataV13defaultLocaleSSSgvM",
+                "mangledName": "$s10RevenueCat11PaywallDataV13defaultLocaleSSSgvM",
+                "moduleName": "RevenueCat",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "ZeroDecimalPlaceCountries",
+            "printedName": "ZeroDecimalPlaceCountries",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "apple",
+                "printedName": "apple",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV5appleSaySSGvp",
+                "mangledName": "$s10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV5appleSaySSGvp",
+                "moduleName": "RevenueCat",
+                "declAttributes": [
+                  "HasInitialValue",
+                  "HasStorage",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Swift.String]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV5appleSaySSGvg",
+                    "mangledName": "$s10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV5appleSaySSGvg",
+                    "moduleName": "RevenueCat",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Set",
+                    "printedName": "Set()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Swift.String]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV5appleSaySSGvs",
+                    "mangledName": "$s10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV5appleSaySSGvs",
+                    "moduleName": "RevenueCat",
+                    "implicit": true,
+                    "accessorKind": "set"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Modify",
+                    "printedName": "Modify()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV5appleSaySSGvM",
+                    "mangledName": "$s10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV5appleSaySSGvM",
+                    "moduleName": "RevenueCat",
+                    "implicit": true,
+                    "accessorKind": "_modify"
+                  }
+                ]
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(apple:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ZeroDecimalPlaceCountries",
+                    "printedName": "RevenueCat.PaywallData.ZeroDecimalPlaceCountries",
+                    "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV5appleAESaySSG_tcfc",
+                "mangledName": "$s10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV5appleAESaySSG_tcfc",
+                "moduleName": "RevenueCat",
+                "declAttributes": [
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(from:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ZeroDecimalPlaceCountries",
+                    "printedName": "RevenueCat.PaywallData.ZeroDecimalPlaceCountries",
+                    "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Decoder",
+                    "printedName": "any Swift.Decoder",
+                    "usr": "s:s7DecoderP"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV4fromAEs7Decoder_p_tKcfc",
+                "mangledName": "$s10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV4fromAEs7Decoder_p_tKcfc",
+                "moduleName": "RevenueCat",
+                "implicit": true,
+                "throwing": true,
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Function",
+                "name": "encode",
+                "printedName": "encode(to:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Encoder",
+                    "printedName": "any Swift.Encoder",
+                    "usr": "s:s7EncoderP"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV6encode2toys7Encoder_p_tKF",
+                "mangledName": "$s10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV6encode2toys7Encoder_p_tKF",
+                "moduleName": "RevenueCat",
+                "implicit": true,
+                "throwing": true,
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "hashValue",
+                "printedName": "hashValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV9hashValueSivp",
+                "mangledName": "$s10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV9hashValueSivp",
+                "moduleName": "RevenueCat",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV9hashValueSivg",
+                    "mangledName": "$s10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV9hashValueSivg",
+                    "moduleName": "RevenueCat",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "hash",
+                "printedName": "hash(into:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Hasher",
+                    "printedName": "Swift.Hasher",
+                    "paramValueOwnership": "InOut",
+                    "usr": "s:s6HasherV"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV4hash4intoys6HasherVz_tF",
+                "mangledName": "$s10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV4hash4intoys6HasherVz_tF",
+                "moduleName": "RevenueCat",
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Function",
+                "name": "==",
+                "printedName": "==(_:_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ZeroDecimalPlaceCountries",
+                    "printedName": "RevenueCat.PaywallData.ZeroDecimalPlaceCountries",
+                    "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ZeroDecimalPlaceCountries",
+                    "printedName": "RevenueCat.PaywallData.ZeroDecimalPlaceCountries",
+                    "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV2eeoiySbAE_AEtFZ",
+                "mangledName": "$s10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV2eeoiySbAE_AEtFZ",
+                "moduleName": "RevenueCat",
+                "static": true,
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Struct",
+            "usr": "s:10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV",
+            "mangledName": "$s10RevenueCat11PaywallDataV25ZeroDecimalPlaceCountriesV",
+            "moduleName": "RevenueCat",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Decodable",
+                "printedName": "Decodable",
+                "usr": "s:Se",
+                "mangledName": "$sSe"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Encodable",
+                "printedName": "Encodable",
+                "usr": "s:SE",
+                "mangledName": "$sSE"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Sendable",
+                "printedName": "Sendable",
+                "usr": "s:s8SendableP",
+                "mangledName": "$ss8SendableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              }
+            ]
+          },
+          {
             "kind": "TypeDecl",
             "name": "LocalizedConfiguration",
             "printedName": "LocalizedConfiguration",
@@ -14828,7 +15343,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(templateName:config:localization:assetBaseURL:revision:locale:)",
+            "printedName": "init(templateName:config:localization:assetBaseURL:revision:locale:zeroDecimalPlaceCountries:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -14873,11 +15388,26 @@
                 "printedName": "Foundation.Locale",
                 "hasDefaultArg": true,
                 "usr": "s:10Foundation6LocaleV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sa"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:10RevenueCat11PaywallDataV12templateName6config12localization12assetBaseURL8revision6localeACSS_AC13ConfigurationVAC09LocalizedN0V10Foundation0K0VSiAN6LocaleVtcfc",
-            "mangledName": "$s10RevenueCat11PaywallDataV12templateName6config12localization12assetBaseURL8revision6localeACSS_AC13ConfigurationVAC09LocalizedN0V10Foundation0K0VSiAN6LocaleVtcfc",
+            "usr": "s:10RevenueCat11PaywallDataV12templateName6config12localization12assetBaseURL8revision6locale25zeroDecimalPlaceCountriesACSS_AC13ConfigurationVAC09LocalizedR0V10Foundation0K0VSiAO6LocaleVSaySSGtcfc",
+            "mangledName": "$s10RevenueCat11PaywallDataV12templateName6config12localization12assetBaseURL8revision6locale25zeroDecimalPlaceCountriesACSS_AC13ConfigurationVAC09LocalizedR0V10Foundation0K0VSiAO6LocaleVSaySSGtcfc",
             "moduleName": "RevenueCat",
             "declAttributes": [
               "AccessControl",
@@ -14889,7 +15419,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(templateName:config:localizationByTier:assetBaseURL:revision:locale:)",
+            "printedName": "init(templateName:config:localizationByTier:assetBaseURL:revision:locale:zeroDecimalPlaceCountries:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -14948,11 +15478,26 @@
                 "printedName": "Foundation.Locale",
                 "hasDefaultArg": true,
                 "usr": "s:10Foundation6LocaleV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sa"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:10RevenueCat11PaywallDataV12templateName6config18localizationByTier12assetBaseURL8revision6localeACSS_AC13ConfigurationVSDySSAC09LocalizedP0VG10Foundation0M0VSiAO6LocaleVtcfc",
-            "mangledName": "$s10RevenueCat11PaywallDataV12templateName6config18localizationByTier12assetBaseURL8revision6localeACSS_AC13ConfigurationVSDySSAC09LocalizedP0VG10Foundation0M0VSiAO6LocaleVtcfc",
+            "usr": "s:10RevenueCat11PaywallDataV12templateName6config18localizationByTier12assetBaseURL8revision6locale25zeroDecimalPlaceCountriesACSS_AC13ConfigurationVSDySSAC09LocalizedT0VG10Foundation0M0VSiAP6LocaleVSaySSGtcfc",
+            "mangledName": "$s10RevenueCat11PaywallDataV12templateName6config18localizationByTier12assetBaseURL8revision6locale25zeroDecimalPlaceCountriesACSS_AC13ConfigurationVSDySSAC09LocalizedT0VG10Foundation0M0VSiAP6LocaleVSaySSGtcfc",
             "moduleName": "RevenueCat",
             "declAttributes": [
               "AccessControl",
@@ -15113,6 +15658,64 @@
             "implicit": true,
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "locale",
+            "printedName": "locale",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Locale?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Locale",
+                    "printedName": "Foundation.Locale",
+                    "usr": "s:10Foundation6LocaleV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10RevenueCat11PaywallDataV6locale10Foundation6LocaleVSgvp",
+            "mangledName": "$s10RevenueCat11PaywallDataV6locale10Foundation6LocaleVSgvp",
+            "moduleName": "RevenueCat",
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.Locale?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Locale",
+                        "printedName": "Foundation.Locale",
+                        "usr": "s:10Foundation6LocaleV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10RevenueCat11PaywallDataV6locale10Foundation6LocaleVSgvg",
+                "mangledName": "$s10RevenueCat11PaywallDataV6locale10Foundation6LocaleVSgvg",
+                "moduleName": "RevenueCat",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
           },
           {
             "kind": "Var",
@@ -24741,6 +25344,26 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "RevenueCat",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "RevenueCat",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "os",
         "printedName": "os",
         "declKind": "Import",
@@ -26078,16 +26701,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "RevenueCat",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "StoreKit",
         "printedName": "StoreKit",
         "declKind": "Import",
@@ -26791,6 +27404,16 @@
             "usr": "s:s12IdentifiableP",
             "mangledName": "$ss12IdentifiableP"
           }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "RevenueCat",
+        "declAttributes": [
+          "RawDocComment"
         ]
       },
       {
@@ -28356,6 +28979,69 @@
                   "Final"
                 ],
                 "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "storeFrontCountryCode",
+            "printedName": "storeFrontCountryCode",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@RevenueCat@objc(cs)RCPurchases(py)storeFrontCountryCode",
+            "mangledName": "$s10RevenueCat9PurchasesC21storeFrontCountryCodeSSSgvp",
+            "moduleName": "RevenueCat",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@RevenueCat@objc(cs)RCPurchases(im)storeFrontCountryCode",
+                "mangledName": "$s10RevenueCat9PurchasesC21storeFrontCountryCodeSSSgvg",
+                "moduleName": "RevenueCat",
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
               }
             ]
           },
@@ -36816,6 +37502,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "RevenueCat",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "StoreKit",
         "printedName": "StoreKit",
         "declKind": "Import",
@@ -42181,6 +42877,16 @@
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
           }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "RevenueCat",
+        "declAttributes": [
+          "RawDocComment"
         ]
       },
       {
@@ -58845,471 +59551,527 @@
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "IntegerLiteral",
-      "offset": 1212,
+      "offset": 1579,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
+      "kind": "Array",
+      "offset": 3422,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "Dictionary",
-      "offset": 5276,
+      "offset": 6141,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "Array",
-      "offset": 5315,
+      "offset": 6180,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "BooleanLiteral",
-      "offset": 11832,
+      "offset": 12697,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "BooleanLiteral",
-      "offset": 11883,
+      "offset": 12748,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "Dictionary",
-      "offset": 12588,
+      "offset": 13453,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "Dictionary",
-      "offset": 12686,
+      "offset": 13551,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "BooleanLiteral",
-      "offset": 12761,
+      "offset": 13626,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "BooleanLiteral",
-      "offset": 12812,
+      "offset": 13677,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "IntegerLiteral",
-      "offset": 21141,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
-      "kind": "IntegerLiteral",
-      "offset": 21633,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
-      "kind": "IntegerLiteral",
-      "offset": 22220,
+      "offset": 22006,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "Array",
-      "offset": 22684,
+      "offset": 22055,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22630,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
+      "kind": "Array",
+      "offset": 22714,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 23333,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
+      "kind": "Array",
+      "offset": 23417,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
+      "kind": "Array",
+      "offset": 23913,
       "length": 256,
       "value": "[\\.<NOT_IMPLEMENTED>, \\.<NOT_IMPLEMENTED>, \\.<NOT_IMPLEMENTED>, \\.<NOT_IMPLEMENTED>, \\.<NOT_IMPLEMENTED>, \\.<NOT_IMPLEMENTED>, \\.<NOT_IMPLEMENTED>, \\.<NOT_IMPLEMENTED>, \\.<NOT_IMPLEMENTED>, \\.<NOT_IMPLEMENTED>]"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23141,
+      "offset": 24370,
       "length": 8,
       "value": "\"iconId\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23141,
+      "offset": 24370,
       "length": 8,
       "value": "\"iconId\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23382,
+      "offset": 24611,
       "length": 10,
       "value": "\"subtitle\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23462,
+      "offset": 24691,
       "length": 28,
       "value": "\"callToActionWithIntroOffer\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23520,
+      "offset": 24749,
       "length": 14,
       "value": "\"offerDetails\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23578,
+      "offset": 24807,
       "length": 28,
       "value": "\"offerDetailsWithIntroOffer\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23633,
+      "offset": 24862,
       "length": 11,
       "value": "\"offerName\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23670,
+      "offset": 24899,
       "length": 10,
       "value": "\"features\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23706,
+      "offset": 24935,
       "length": 10,
       "value": "\"tierName\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23748,
+      "offset": 24977,
       "length": 16,
       "value": "\"offerOverrides\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23382,
+      "offset": 24611,
       "length": 10,
       "value": "\"subtitle\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23462,
+      "offset": 24691,
       "length": 28,
       "value": "\"callToActionWithIntroOffer\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23520,
+      "offset": 24749,
       "length": 14,
       "value": "\"offerDetails\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23578,
+      "offset": 24807,
       "length": 28,
       "value": "\"offerDetailsWithIntroOffer\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23633,
+      "offset": 24862,
       "length": 11,
       "value": "\"offerName\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23670,
+      "offset": 24899,
       "length": 10,
       "value": "\"features\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23706,
+      "offset": 24935,
       "length": 10,
       "value": "\"tierName\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 23748,
+      "offset": 24977,
       "length": 16,
       "value": "\"offerOverrides\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24023,
+      "offset": 25252,
       "length": 8,
       "value": "\"header\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24059,
+      "offset": 25288,
       "length": 12,
       "value": "\"background\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24093,
+      "offset": 25322,
       "length": 6,
       "value": "\"icon\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24023,
+      "offset": 25252,
       "length": 8,
       "value": "\"header\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24059,
+      "offset": 25288,
       "length": 12,
       "value": "\"background\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24093,
+      "offset": 25322,
       "length": 6,
       "value": "\"icon\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24272,
+      "offset": 25501,
       "length": 10,
       "value": "\"packages\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24333,
+      "offset": 25562,
       "length": 7,
       "value": "\"tiers\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24370,
+      "offset": 25599,
       "length": 8,
       "value": "\"images\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24406,
+      "offset": 25635,
       "length": 12,
       "value": "\"imagesHeic\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24452,
+      "offset": 25681,
       "length": 18,
       "value": "\"imagesHeicLowRes\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24510,
+      "offset": 25739,
       "length": 24,
       "value": "\"blurredBackgroundImage\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24575,
+      "offset": 25804,
       "length": 25,
       "value": "\"displayRestorePurchases\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24635,
+      "offset": 25864,
       "length": 8,
       "value": "\"tosUrl\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24671,
+      "offset": 25900,
       "length": 12,
       "value": "\"privacyUrl\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24733,
+      "offset": 25962,
       "length": 14,
       "value": "\"colorsByTier\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24777,
+      "offset": 26006,
       "length": 14,
       "value": "\"imagesByTier\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24272,
+      "offset": 25501,
       "length": 10,
       "value": "\"packages\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24333,
+      "offset": 25562,
       "length": 7,
       "value": "\"tiers\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24370,
+      "offset": 25599,
       "length": 8,
       "value": "\"images\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24406,
+      "offset": 25635,
       "length": 12,
       "value": "\"imagesHeic\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24452,
+      "offset": 25681,
       "length": 18,
       "value": "\"imagesHeicLowRes\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24510,
+      "offset": 25739,
       "length": 24,
       "value": "\"blurredBackgroundImage\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24575,
+      "offset": 25804,
       "length": 25,
       "value": "\"displayRestorePurchases\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24635,
+      "offset": 25864,
       "length": 8,
       "value": "\"tosUrl\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24671,
+      "offset": 25900,
       "length": 12,
       "value": "\"privacyUrl\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24733,
+      "offset": 25962,
       "length": 14,
       "value": "\"colorsByTier\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 24777,
+      "offset": 26006,
       "length": 14,
       "value": "\"imagesByTier\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 25022,
+      "offset": 26251,
       "length": 18,
       "value": "\"localizedStrings\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 25075,
+      "offset": 26304,
       "length": 24,
       "value": "\"localizedStringsByTier\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 25128,
+      "offset": 26357,
       "length": 14,
       "value": "\"assetBaseUrl\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 25168,
+      "offset": 26397,
       "length": 10,
       "value": "\"revision\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 25022,
+      "offset": 26450,
+      "length": 27,
+      "value": "\"zeroDecimalPlaceCountries\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
+      "kind": "StringLiteral",
+      "offset": 26507,
+      "length": 15,
+      "value": "\"defaultLocale\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
+      "kind": "StringLiteral",
+      "offset": 26251,
       "length": 18,
       "value": "\"localizedStrings\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 25075,
+      "offset": 26304,
       "length": 24,
       "value": "\"localizedStringsByTier\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 25128,
+      "offset": 26357,
       "length": 14,
       "value": "\"assetBaseUrl\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
       "kind": "StringLiteral",
-      "offset": 25168,
+      "offset": 26397,
       "length": 10,
       "value": "\"revision\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
+      "kind": "StringLiteral",
+      "offset": 26450,
+      "length": 27,
+      "value": "\"zeroDecimalPlaceCountries\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Paywalls\/PaywallData.swift",
+      "kind": "StringLiteral",
+      "offset": 26507,
+      "length": 15,
+      "value": "\"defaultLocale\""
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Security\/Signing.swift",
@@ -60021,7 +60783,7 @@
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Backend.swift",
       "kind": "BooleanLiteral",
-      "offset": 4482,
+      "offset": 4809,
       "length": 4,
       "value": "true"
     },
@@ -61335,6 +62097,97 @@
       "value": "[]"
     },
     {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Operations\/GetCustomerCenterConfigOperation.swift",
+      "kind": "StringLiteral",
+      "offset": 400,
+      "length": 32,
+      "value": "\"RevenueCat.GetCustomerCenterConfigOperation\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Responses\/CustomerCenterConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1081,
+      "length": 18,
+      "value": "\"MISSING_PURCHASE\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Responses\/CustomerCenterConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1133,
+      "length": 16,
+      "value": "\"REFUND_REQUEST\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Responses\/CustomerCenterConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1181,
+      "length": 14,
+      "value": "\"CHANGE_PLANS\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Responses\/CustomerCenterConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1222,
+      "length": 8,
+      "value": "\"CANCEL\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Responses\/CustomerCenterConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1081,
+      "length": 18,
+      "value": "\"MISSING_PURCHASE\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Responses\/CustomerCenterConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1133,
+      "length": 16,
+      "value": "\"REFUND_REQUEST\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Responses\/CustomerCenterConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1181,
+      "length": 14,
+      "value": "\"CHANGE_PLANS\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Responses\/CustomerCenterConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1222,
+      "length": 8,
+      "value": "\"CANCEL\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Responses\/CustomerCenterConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 2298,
+      "length": 12,
+      "value": "\"MANAGEMENT\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Responses\/CustomerCenterConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 2339,
+      "length": 11,
+      "value": "\"NO_ACTIVE\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Responses\/CustomerCenterConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 2298,
+      "length": 12,
+      "value": "\"MANAGEMENT\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/Responses\/CustomerCenterConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 2339,
+      "length": 11,
+      "value": "\"NO_ACTIVE\""
+    },
+    {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/LocalReceiptParsing\/Helpers\/LoggerType.swift",
       "kind": "IntegerLiteral",
       "offset": 1668,
@@ -61596,28 +62449,28 @@
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Purchasing\/Purchases\/Purchases.swift",
       "kind": "IntegerLiteral",
-      "offset": 10191,
+      "offset": 10497,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Purchasing\/Purchases\/Purchases.swift",
       "kind": "IntegerLiteral",
-      "offset": 10202,
+      "offset": 10508,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Purchasing\/Purchases\/Purchases.swift",
       "kind": "BooleanLiteral",
-      "offset": 10518,
+      "offset": 10824,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Purchasing\/Purchases\/Purchases.swift",
       "kind": "BooleanLiteral",
-      "offset": 11107,
+      "offset": 11413,
       "length": 5,
       "value": "false"
     },
@@ -61631,7 +62484,7 @@
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Purchasing\/Purchases\/Purchases.swift",
       "kind": "BooleanLiteral",
-      "offset": 34916,
+      "offset": 35222,
       "length": 5,
       "value": "false"
     },
@@ -64004,7 +64857,7 @@
     {
       "filePath": "\/Users\/distiller\/purchases-ios\/Sources\/Networking\/HTTPClient\/HTTPRequestPath.swift",
       "kind": "StringLiteral",
-      "offset": 2192,
+      "offset": 2248,
       "length": 28,
       "value": "\"https:\/\/api.revenuecat.com\""
     },

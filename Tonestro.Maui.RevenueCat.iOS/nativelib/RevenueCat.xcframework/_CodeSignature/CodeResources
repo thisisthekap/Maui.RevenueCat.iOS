@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<data>
-		IJUPBDSUEk02dUZvBgFGKbAY5xc=
+		n2cHfqk5SA28l9mir2RjHYUD0S8=
 		</data>
 		<key>ios-arm64/RevenueCat.framework/Headers/RevenueCat.h</key>
 		<data>
@@ -14,23 +14,23 @@
 		</data>
 		<key>ios-arm64/RevenueCat.framework/Info.plist</key>
 		<data>
-		FmEbxtNYPpzU6eNT6T7y5y4w5eY=
+		EpIcp6bJyxZKmjl1oShUnIC5M9Y=
 		</data>
 		<key>ios-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ec1BNBAIuYPwR17MXTNFfpyBG/0=
+		jRc7Y+AzF5vr7UdCkxoxhmgBs10=
 		</data>
 		<key>ios-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		B0M+yCuKiCG3rssiOgu5FLGsbn4=
+		h43rLeShZ8MR7nYIecMzZAihaOI=
 		</data>
 		<key>ios-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		VqYVh0VILONe1ZIx18nD4txmDog=
+		iscT9U+fOY4N5bFB+i1aeqiV5Dk=
 		</data>
 		<key>ios-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		B0M+yCuKiCG3rssiOgu5FLGsbn4=
+		h43rLeShZ8MR7nYIecMzZAihaOI=
 		</data>
 		<key>ios-arm64/RevenueCat.framework/Modules/module.modulemap</key>
 		<data>
@@ -42,23 +42,23 @@
 		</data>
 		<key>ios-arm64/RevenueCat.framework/RevenueCat</key>
 		<data>
-		QH5Fry15dTkKE5WgOuqfueCbfrs=
+		HA/DrpDtX/xEH4PgWp7F7+s4BgA=
 		</data>
 		<key>ios-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		hu2EGOdabWGKRTrPyzXeU6qJhPk=
+		Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 		</data>
 		<key>ios-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<data>
-		sc/nF0siRGbrN5HCEhsgKiwDqg8=
+		9k2DjjBY+KgaEfCllvpHYhrX0lc=
 		</data>
 		<key>ios-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<data>
-		jY7G/YbyDjybfLyj0DnJfsVh+GU=
+		+MvR03YbUWRyT6KvEWjAOerVyIY=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Headers/RevenueCat-Swift.h</key>
 		<data>
-		EaXCEPNwPbXoxFnrJbfQiFkTrQo=
+		LgJTKAlBzZ43uaqdEgVHRxnRiLs=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Headers/RevenueCat.h</key>
 		<data>
@@ -66,35 +66,35 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<data>
-		d+mJG8yDJ9dJSVmx5mZc96cIj0o=
+		hy343YN1MQU431IleJ8mz4y9Ceo=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<data>
-		4M6I5sVuMeE5u6EPjPCE442ABSE=
+		bc+cqj+HQM+nWsMP4sQiGae08FA=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<data>
-		x7gZPX5KEqLmzALIlqAjUTrKQxk=
+		SOxhUAkr/k6/CCzDckHNMsJSAFw=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<data>
-		4M6I5sVuMeE5u6EPjPCE442ABSE=
+		bc+cqj+HQM+nWsMP4sQiGae08FA=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<data>
-		d+mJG8yDJ9dJSVmx5mZc96cIj0o=
+		hy343YN1MQU431IleJ8mz4y9Ceo=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<data>
-		zM1wKtD7Lxjh4xkp6RwtSZymYXA=
+		CJV/Qp0Dve9BXtFpXgnXi4hhUCQ=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<data>
-		1YTB3ZL4l6ISVJrEqO8V1ysQT6Q=
+		3KDnzqY6nGpyvGMywH+IrjOaO08=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<data>
-		zM1wKtD7Lxjh4xkp6RwtSZymYXA=
+		CJV/Qp0Dve9BXtFpXgnXi4hhUCQ=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/module.modulemap</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Resources/Info.plist</key>
 		<data>
-		ohqpfxp855g17H8T9ouxhqqm/ak=
+		0BG+isrzcN5ADsykuDs9jWN00K4=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -110,27 +110,27 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/RevenueCat</key>
 		<data>
-		SkvNaWe5bDoPW3W63Xh36Pp9UZM=
+		/iQXKbt+k6V/2XgXRAVVSeYV4T0=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		hu2EGOdabWGKRTrPyzXeU6qJhPk=
+		Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<data>
-		KAfSVoO+TutU8RTympQk6T9L6Vk=
+		6cFz2ro4o7sgJVCZ9Oh9gG7iFjU=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<data>
-		uaf/GNob2e3/Z7XQQUluym8U1HE=
+		jAEoIRKnVUijLO7SWNjlzGZH2Lg=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/x86_64/RevenueCat.yml</key>
 		<data>
-		aJvLL2x86gKYMOnuUHvwtr+UIJU=
+		5oNaeE7Kz/CK1PXiT5iwm3uisDY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<data>
-		vi67CxP5RzF4f3DaIt9mtyCQ9kc=
+		0b9m1boMWWcm42c1s3KgqYYg90U=
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat.h</key>
 		<data>
@@ -138,39 +138,39 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Info.plist</key>
 		<data>
-		2GmnP0PAgKbm1ie4VbUub73ozr8=
+		IGwkKBLnAMIoYyxcheUljLTufBk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		2JUDho4S8Y3vb12tlHzScdgj/J0=
+		RUDeKLRsOHaof28/Wgar7ISZnq0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		dGL/8h4V9412HhjerVovYnyXYT8=
+		r3E5v8u3vplbmtCrOYtesKvTglI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		fYUX4vppXwpM0ENnCyfb44k1kS0=
+		DaQrr59n5XI3yok026CZai72gvM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		dGL/8h4V9412HhjerVovYnyXYT8=
+		r3E5v8u3vplbmtCrOYtesKvTglI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		2JUDho4S8Y3vb12tlHzScdgj/J0=
+		RUDeKLRsOHaof28/Wgar7ISZnq0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		iOzS8J88agdjtv+/c1cgW+0e6qc=
+		ci5+eTCURu+djiiNcbra8SjRbQ4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		lKAX3fZtPvIRLo/ycgGHiSeXK1Q=
+		caYsld888G2z4pBD+o72V3UWS84=
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		iOzS8J88agdjtv+/c1cgW+0e6qc=
+		ci5+eTCURu+djiiNcbra8SjRbQ4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/module.modulemap</key>
 		<data>
@@ -182,31 +182,31 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/RevenueCat</key>
 		<data>
-		vvW2fOWNw/IvT18uE0yel729LRU=
+		osdWqBqMa0uMdV3UxeknZvBKF4Q=
 		</data>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/_CodeSignature/CodeResources</key>
 		<data>
-		35wJR/OCjrpCTazh4Bn93zRs9+A=
+		tXJxEKIwfNFGoBJMEWq4lc6k0rQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		hu2EGOdabWGKRTrPyzXeU6qJhPk=
+		Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<data>
-		p426tn5ptwcudRcEGV8/OebqIDs=
+		Du0WKP0WIugXKviUA0Br58YNVDY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<data>
-		wxKwC/AmKOQK40WRwIQXPpWRsYo=
+		FFojwyTgKg6JbD0TQSn9btdctfI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/x86_64/RevenueCat.yml</key>
 		<data>
-		pYRYxJ/yCvilCO7w1Seo1caCXnc=
+		h6iadifTJlWOno/1HQqcRu2Xs9A=
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Headers/RevenueCat-Swift.h</key>
 		<data>
-		1gtmuaeJe2GUKPaAH7F0ZP+T8zI=
+		Y9Q3RLzo+BpsDj5klKi+hBDeZHU=
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Headers/RevenueCat.h</key>
 		<data>
@@ -214,35 +214,35 @@
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-macos.abi.json</key>
 		<data>
-		mnwL2TQp3jqehbeo+oyOJuMgC9w=
+		NIP96dRwQd5Ul6mTsynbumGyj+c=
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<data>
-		EI2BYDY3XF8vgHcX5+5bKYTs3e0=
+		4Asbv50TORJh5OQ/98R4X0D0Fsw=
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<data>
-		uAFLfiazmGPBIwhLdHKuqJtII+g=
+		LiZ9CRnYbakYAz8ae3PdGxbybZg=
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<data>
-		EI2BYDY3XF8vgHcX5+5bKYTs3e0=
+		4Asbv50TORJh5OQ/98R4X0D0Fsw=
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<data>
-		mnwL2TQp3jqehbeo+oyOJuMgC9w=
+		NIP96dRwQd5Ul6mTsynbumGyj+c=
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<data>
-		h9TmEaEoIHKX+KV6xcQpqhPN+2o=
+		Ad2D04crspdmAGrwxOTFQDQUUfo=
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<data>
-		7Hs9VzGv9RRvMRIxUDUp11nHAkg=
+		fKvIINUD0M4EV7cdzQggzVv8VaU=
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<data>
-		h9TmEaEoIHKX+KV6xcQpqhPN+2o=
+		Ad2D04crspdmAGrwxOTFQDQUUfo=
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/module.modulemap</key>
 		<data>
@@ -250,7 +250,7 @@
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Resources/Info.plist</key>
 		<data>
-		0w1SWVBJx69foSg8AkxsOJPNmMA=
+		JAHPEC1gH1k7QujaObUA5DJXtxE=
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -258,27 +258,27 @@
 		</data>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/RevenueCat</key>
 		<data>
-		DjqEMhBL8eSJWjIIiKi1xSwk2FU=
+		364ldi44QvciedBYfQAweCFi2Dg=
 		</data>
 		<key>macos-arm64_x86_64/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		hu2EGOdabWGKRTrPyzXeU6qJhPk=
+		Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 		</data>
 		<key>macos-arm64_x86_64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<data>
-		4LogKJ1SdOxaI7C+AD1E7+4lPJc=
+		b+aeBvLHC0P+KC0nEZ7M6CxC7Ls=
 		</data>
 		<key>macos-arm64_x86_64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<data>
-		O4qiqhA4wYoxbvpGe++XklT0ucE=
+		uNeCDcq6We7xzHHfJ5B1VlMIpdE=
 		</data>
 		<key>macos-arm64_x86_64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/x86_64/RevenueCat.yml</key>
 		<data>
-		gKmwIgR4o6gZ9k2q4B0xWbxtcVM=
+		0W8mxUFGFdXeU/kpNlpBQNAt0rs=
 		</data>
 		<key>tvos-arm64/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<data>
-		Z+TyancLkXmeMx4mPIBAzvu1etc=
+		J5R3eEkXdWGn6fDrwLEDMy3laUg=
 		</data>
 		<key>tvos-arm64/RevenueCat.framework/Headers/RevenueCat.h</key>
 		<data>
@@ -286,23 +286,23 @@
 		</data>
 		<key>tvos-arm64/RevenueCat.framework/Info.plist</key>
 		<data>
-		qWCesZvUoC96n/6Xs2VYVxlCp9I=
+		MaBzn7VqUMKKN4LOwo51dQcHIGg=
 		</data>
 		<key>tvos-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<data>
-		AiGMkC8OnSA+M9lXZ3Ya1EmHuqU=
+		ynEULXE8KgI1lA//p+MjPvOnVYI=
 		</data>
 		<key>tvos-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
 		<data>
-		iM4rUoB76ETD7O8lcumjQoTOc+4=
+		awgB8hxGq8EKhaJcbHIt9/rKAPQ=
 		</data>
 		<key>tvos-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos.swiftdoc</key>
 		<data>
-		CyrO05Rtz5qgziWlQ4UfNDhaQuI=
+		XlkSdP+1A4TwBnbJmKaaKRPxLuI=
 		</data>
 		<key>tvos-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos.swiftinterface</key>
 		<data>
-		iM4rUoB76ETD7O8lcumjQoTOc+4=
+		awgB8hxGq8EKhaJcbHIt9/rKAPQ=
 		</data>
 		<key>tvos-arm64/RevenueCat.framework/Modules/module.modulemap</key>
 		<data>
@@ -314,23 +314,23 @@
 		</data>
 		<key>tvos-arm64/RevenueCat.framework/RevenueCat</key>
 		<data>
-		rxiZ3HfmuCE3MT12OT7zr2ZV99Y=
+		gn2Cg6bLRfUDrIre958egllrZFs=
 		</data>
 		<key>tvos-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		hu2EGOdabWGKRTrPyzXeU6qJhPk=
+		Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 		</data>
 		<key>tvos-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<data>
-		cGlWhx2Zp/iPqv8xNaMFnWYTzqY=
+		L2eSnIAD7ywXm0tk+JcBk43mlFA=
 		</data>
 		<key>tvos-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<data>
-		xhgl9x1HA53NAQFn8PmrqeXoP6A=
+		f02+SYiV2ctbnLIUffDUYdxHFgg=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<data>
-		o4ZVliZ9o295eCakQ5FEyqNvqs8=
+		OX88OLL0teL1MpqmqpdGNnAp004=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat.h</key>
 		<data>
@@ -338,39 +338,39 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Info.plist</key>
 		<data>
-		rnozNztMMNS4JE2BeHp+0+a07Tc=
+		0A7F/04t6QUgWGCeFW+P26UebSk=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		ppV4v+AexcG51OiEugPYGSlPDNY=
+		y4qy7vYbe/2DS6KuR6wt/YnPZic=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		OCXtdLFww0j0tLKx8uKW+rplLV0=
+		T5uZevtWbB5aEQDc0aB0luKwqe4=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		7Y4+odeODV6KYcOaSDF27XSWpJI=
+		4J+7KyHuWKwuN2o8eAtCdAaHtmg=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		OCXtdLFww0j0tLKx8uKW+rplLV0=
+		T5uZevtWbB5aEQDc0aB0luKwqe4=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		ppV4v+AexcG51OiEugPYGSlPDNY=
+		y4qy7vYbe/2DS6KuR6wt/YnPZic=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		hG4UPhbDda9jjPJvvzR8jzp53Js=
+		3IDqUBqzAnspeTotWNb4UhKRDv0=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		LaQwjexenLAkjN4mMX8Ewe52hFY=
+		oKzhwAZ66yxjtaaSoCFuJdtph8w=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		hG4UPhbDda9jjPJvvzR8jzp53Js=
+		3IDqUBqzAnspeTotWNb4UhKRDv0=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/module.modulemap</key>
 		<data>
@@ -382,31 +382,31 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/RevenueCat</key>
 		<data>
-		nkGXSsnu6f9HCN/DoqLIs/rQfqc=
+		t1I3YvXg3s2u2STe6yqtMULywww=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/_CodeSignature/CodeResources</key>
 		<data>
-		cdVT52YCuWZKSy6/76rXQUA1FPQ=
+		luk9vBJ48yQx9WxlMMDwy/leg7U=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		hu2EGOdabWGKRTrPyzXeU6qJhPk=
+		Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<data>
-		JlCjatirOywlQ6PGjHecPNYxpUs=
+		bPl6BiiXw5YJJkxHAjS0eyWRwVw=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<data>
-		PXM06UMExtCNjKHegiR7A0KGNLg=
+		t8XduqsNqPbt9iIqPopTe93/qgo=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/x86_64/RevenueCat.yml</key>
 		<data>
-		rxXdrwOZ4dykcS0eAHhKUy0YRyw=
+		0PXcu2OvASXSq2Ho+PZ9q1TvFSs=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<data>
-		G4mTs7kh6depzXi7t/BULaCT8gw=
+		CwvGRkOjJtpsC5m2+cnmQo/p5Dg=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Headers/RevenueCat.h</key>
 		<data>
@@ -414,55 +414,55 @@
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Info.plist</key>
 		<data>
-		iXNNEqOlCLNrmZyLfo+odO8FhYY=
+		+Wo1+KFLp27puVGG1u4Bd13l04U=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<data>
-		uISDeJDdZ2FIVhTpVIm5n3fUmVA=
+		V5eZ73dnitsu1BZuPXIBbBOGInw=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<data>
-		bX1ZI94xjpi8T5UYO4Tmna2XpgU=
+		++oDj8asbYOHgLzyx2HMBHDu3ho=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos.swiftdoc</key>
 		<data>
-		jPgJGGmVc6fbsk5S+2SYGEgwiVc=
+		inZt+o7/B/X0+Nt+WisdspJW4Fc=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos.swiftinterface</key>
 		<data>
-		bX1ZI94xjpi8T5UYO4Tmna2XpgU=
+		++oDj8asbYOHgLzyx2HMBHDu3ho=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<data>
-		uISDeJDdZ2FIVhTpVIm5n3fUmVA=
+		V5eZ73dnitsu1BZuPXIBbBOGInw=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<data>
-		PkKE6IPpVRhuNpqO/2FSLCOpX1E=
+		uXfm2uFV+i1P4AEZgmkyAWuhsmk=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64_32-apple-watchos.swiftdoc</key>
 		<data>
-		b4eYdp3E492znxkHAzFG/ke8el4=
+		WFoXLavJS13SWpDpIp6RrKfmhTI=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64_32-apple-watchos.swiftinterface</key>
 		<data>
-		PkKE6IPpVRhuNpqO/2FSLCOpX1E=
+		uXfm2uFV+i1P4AEZgmkyAWuhsmk=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/armv7k-apple-watchos.abi.json</key>
 		<data>
-		uISDeJDdZ2FIVhTpVIm5n3fUmVA=
+		V5eZ73dnitsu1BZuPXIBbBOGInw=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/armv7k-apple-watchos.private.swiftinterface</key>
 		<data>
-		6e085mkEC3XKlTIWzQsjc+j6/aU=
+		AEA9dENOwFJByEc4Z+wy3qw5T0s=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/armv7k-apple-watchos.swiftdoc</key>
 		<data>
-		46jHAXvoueyNOyyJPvFEdIW8zP4=
+		vv5d6TUCmmL26hLq6P+ZmEvPdT8=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/armv7k-apple-watchos.swiftinterface</key>
 		<data>
-		6e085mkEC3XKlTIWzQsjc+j6/aU=
+		AEA9dENOwFJByEc4Z+wy3qw5T0s=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/module.modulemap</key>
 		<data>
@@ -474,31 +474,31 @@
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/RevenueCat</key>
 		<data>
-		N/AnkRvzGksZPEs3CNRp7HL6J1o=
+		pxQ+1EnxFq2a83dPKMqao7hw/14=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		hu2EGOdabWGKRTrPyzXeU6qJhPk=
+		Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<data>
-		hD5joHhrGi9kqYTeQ403Ug8A9HY=
+		1dy3+eXpRyUpkEPnA6qCKnpz1ks=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<data>
-		0arIZuyt7io1vT2m111Rd02AafE=
+		fsdcZ95VTeEC7wJfPYgTqlP8rlo=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64_32/RevenueCat.yml</key>
 		<data>
-		VXYA0PulBftjDE6n5d8vYQWmf8g=
+		Pu7QGmUcFq37b2rkcRNsaLOESZw=
 		</data>
 		<key>watchos-arm64_arm64_32_armv7k/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/arm/RevenueCat.yml</key>
 		<data>
-		ra05WHkTGa3K5TcAd3ZbzFcC6BA=
+		os3JwKShhNO1mKxZlkG27rE0IIA=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<data>
-		Xx1XBjo8kFRavWPOh3OwijgybFQ=
+		iP0lNgg8XkXjRqK7ZAv+5NUuVIw=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat.h</key>
 		<data>
@@ -506,55 +506,55 @@
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Info.plist</key>
 		<data>
-		o9nZO6YtYtik0DuqJfQ24QoWXec=
+		KQPcIUH4FV6XEQ3KFo/Zenjig1c=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		Ty9wtyqlZjIzKgqPwEP7sKp3Ogs=
+		/raTPXExQAYlSjwr4T7m3PR2DXU=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		kslsxTThu29Ji1Qr/3MiwWXOslY=
+		ysi3MjdU2Ru9dXbRYYf1EzwDjVA=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		W8lAg3+hYyNUg2h/XBLBWj1Wo2w=
+		lILzF+jQ2r5EkeDVwCn+8/riR8U=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		kslsxTThu29Ji1Qr/3MiwWXOslY=
+		ysi3MjdU2Ru9dXbRYYf1EzwDjVA=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
 		<data>
-		Ty9wtyqlZjIzKgqPwEP7sKp3Ogs=
+		/raTPXExQAYlSjwr4T7m3PR2DXU=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/i386-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		9cYEYHJIGaEUm9CN0vK96yepvI8=
+		a2jVrQwpc5TtVImTYAyA17be2mU=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/i386-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		fMlV0JZsArFxdYrgKrypWCl5rTo=
+		fXMm+lVBda6gZqVZLlWSz1lNa1s=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/i386-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		9cYEYHJIGaEUm9CN0vK96yepvI8=
+		a2jVrQwpc5TtVImTYAyA17be2mU=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		Ty9wtyqlZjIzKgqPwEP7sKp3Ogs=
+		/raTPXExQAYlSjwr4T7m3PR2DXU=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		6X1/qLPe9BTLDkIEvNj62XIbGUs=
+		c9WXykO8/34j3PPohPFNOkStTS4=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		wD1wMIWTYhbdj6qX7WXoZ9NU7Ts=
+		oFYRBZtqBTfqND063VsRAh42gx4=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		6X1/qLPe9BTLDkIEvNj62XIbGUs=
+		c9WXykO8/34j3PPohPFNOkStTS4=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/module.modulemap</key>
 		<data>
@@ -566,35 +566,35 @@
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/RevenueCat</key>
 		<data>
-		F8Rnc88PE+Isw4SHbCPtk6nML+o=
+		ARB7sLmj9qLH3SmaZvO3zOIB7o8=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/_CodeSignature/CodeResources</key>
 		<data>
-		sB19WtWvvoxp13FGJUe7z6p8fE0=
+		c1AMflU/Curu3reRmlNXdlsOjYs=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		hu2EGOdabWGKRTrPyzXeU6qJhPk=
+		Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<data>
-		jxwSw6QRsYek1xeScJiqOCZwk5s=
+		pm90lMi5q4ZSRFSnNWXA/sslaRY=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<data>
-		MqkI41zT2WQZi20WONEGSjXqcms=
+		Jyp7U5topt27ghU/NGSlpg/bxCM=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/i386/RevenueCat.yml</key>
 		<data>
-		bAneOHv4tESHNRtMac+9rMfCOss=
+		bY2hb9NjnT4bZ3mMzSPNkdC8wew=
 		</data>
 		<key>watchos-arm64_i386_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/x86_64/RevenueCat.yml</key>
 		<data>
-		HBIG01zPRpJFPpQgEen3hLSlIqc=
+		Fqw+lu+OR6z0q65fDGJnU8pFoF0=
 		</data>
 		<key>xros-arm64/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<data>
-		IJUPBDSUEk02dUZvBgFGKbAY5xc=
+		n2cHfqk5SA28l9mir2RjHYUD0S8=
 		</data>
 		<key>xros-arm64/RevenueCat.framework/Headers/RevenueCat.h</key>
 		<data>
@@ -602,23 +602,23 @@
 		</data>
 		<key>xros-arm64/RevenueCat.framework/Info.plist</key>
 		<data>
-		2iGhV8P0WNwX8ZLiS42WFN9IgGg=
+		hybj/5uUsU+7ZLAj44kpOaNUpWI=
 		</data>
 		<key>xros-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros.abi.json</key>
 		<data>
-		8UQd9i7vgla7KTrkuPzWYvzDH/o=
+		khS7s5+uZpLzBSv0LvVDjxI5LpQ=
 		</data>
 		<key>xros-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros.private.swiftinterface</key>
 		<data>
-		iqv5niLigj5wkZ1yJcJXtogg01A=
+		dZ7WBzo1b2295n7Tl5KHVmhyQKg=
 		</data>
 		<key>xros-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros.swiftdoc</key>
 		<data>
-		Zom/+/Yv8LxOuPVeuNRMKp0MB9I=
+		gvlEx7p1Ej+5Z7lUm1EdJw8APK8=
 		</data>
 		<key>xros-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros.swiftinterface</key>
 		<data>
-		iqv5niLigj5wkZ1yJcJXtogg01A=
+		dZ7WBzo1b2295n7Tl5KHVmhyQKg=
 		</data>
 		<key>xros-arm64/RevenueCat.framework/Modules/module.modulemap</key>
 		<data>
@@ -630,23 +630,23 @@
 		</data>
 		<key>xros-arm64/RevenueCat.framework/RevenueCat</key>
 		<data>
-		jxiR3McFK6JPVxlNL/SWEyv23OY=
+		iC1+D4RnP5EAw51mgDDzVNtUjNI=
 		</data>
 		<key>xros-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		hu2EGOdabWGKRTrPyzXeU6qJhPk=
+		Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 		</data>
 		<key>xros-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<data>
-		4rh0ILLvPvuKyn7vZJz06+RSy5M=
+		8reqflsIGe8GihWcpdlJ5gDnc7k=
 		</data>
 		<key>xros-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<data>
-		e2C8LelEKV5mu8OPj6ECOJK1Xk8=
+		Bf4cKKB8UCDqPUAlJy48tzhDe7k=
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<data>
-		vi67CxP5RzF4f3DaIt9mtyCQ9kc=
+		0b9m1boMWWcm42c1s3KgqYYg90U=
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat.h</key>
 		<data>
@@ -654,39 +654,39 @@
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Info.plist</key>
 		<data>
-		j/ZW1Ys9/yf13hc1NC9yPcbnjmk=
+		Fqa5K+heUa17t2eIMKC+If+z1Z8=
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
-		vN7CHB6U1TlXrdsEdwiTbMjbAxA=
+		Y0mImhysCCKFlQLoCoq2kBxy6CM=
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
-		N750ohLVg7P15ZvXd5wtO7w/g9U=
+		S4gStrxGSIx0Oqvr1QgA4rMPuiQ=
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
 		<data>
-		TPD877g++ls2d6OZJ6Cm5h9LTPs=
+		saQx2FBoVo3nl0vBciq/mFydFNs=
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
 		<data>
-		N750ohLVg7P15ZvXd5wtO7w/g9U=
+		S4gStrxGSIx0Oqvr1QgA4rMPuiQ=
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
-		vN7CHB6U1TlXrdsEdwiTbMjbAxA=
+		Y0mImhysCCKFlQLoCoq2kBxy6CM=
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
-		pyxDTvl2VRCvpuUWTsBqt620XOE=
+		t9RjBKutFr8CX4cse1AqyIazZDQ=
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
 		<data>
-		ChFoNv5HH91I9MKOA3PXY6iXmw4=
+		SFoNq9xNZkQYs3Qdz5vqIKQpRns=
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
 		<data>
-		pyxDTvl2VRCvpuUWTsBqt620XOE=
+		t9RjBKutFr8CX4cse1AqyIazZDQ=
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/module.modulemap</key>
 		<data>
@@ -698,27 +698,27 @@
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/RevenueCat</key>
 		<data>
-		9Xj84rybg2Q8DmAmglHfMd2QcwM=
+		3WpUg/AE5oDB5qdHYSdjc6YQaHQ=
 		</data>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/_CodeSignature/CodeResources</key>
 		<data>
-		dVDJqkp1F1YVMM6RynmF/47STzY=
+		FROgVWsSx1p67+tTM9ZryiQJNdI=
 		</data>
 		<key>xros-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		hu2EGOdabWGKRTrPyzXeU6qJhPk=
+		Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 		</data>
 		<key>xros-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<data>
-		TaU9Pq8Zul7kOc3bR9kDUlRMMs0=
+		Z9rP1OM08APPxDilYgjHrFcy2oo=
 		</data>
 		<key>xros-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<data>
-		FQyJE7XNF5o7fx9+0M13ZFxxk68=
+		gxNvmsCynINZ5skuo6qmvHV5PXE=
 		</data>
 		<key>xros-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/x86_64/RevenueCat.yml</key>
 		<data>
-		S7wYAUEkufRPXV9UpH2jypkiXXo=
+		w+UGStR1W4cQXknkI7WcFz0+/OM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -727,11 +727,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IJUPBDSUEk02dUZvBgFGKbAY5xc=
+			n2cHfqk5SA28l9mir2RjHYUD0S8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xgS2FIjY9Ym05J7sPYnjeyla/4+vjTNWIYYnH7y7UKA=
+			jmyWVL6LXJAluidCeZmcdjcGBpIn97Xl54/A7GmhdVI=
 			</data>
 		</dict>
 		<key>ios-arm64/RevenueCat.framework/Headers/RevenueCat.h</key>
@@ -749,55 +749,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FmEbxtNYPpzU6eNT6T7y5y4w5eY=
+			EpIcp6bJyxZKmjl1oShUnIC5M9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			x0sib67O8Mlf2Ar4AWaPYsM0xkx//uiMr5fIxZYk0UY=
+			kikTnI13IRNzlUUFt1ltKpW6jqjoh2p5ROGMigjMKAw=
 			</data>
 		</dict>
 		<key>ios-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ec1BNBAIuYPwR17MXTNFfpyBG/0=
+			jRc7Y+AzF5vr7UdCkxoxhmgBs10=
 			</data>
 			<key>hash2</key>
 			<data>
-			oLHcsN7NC243+nUE/WiHWF6vURPNVxidkmi3IIugaRI=
+			KZx49brsB5chMeWXFu/RxRnamwspzdrygGCznWajv9s=
 			</data>
 		</dict>
 		<key>ios-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B0M+yCuKiCG3rssiOgu5FLGsbn4=
+			h43rLeShZ8MR7nYIecMzZAihaOI=
 			</data>
 			<key>hash2</key>
 			<data>
-			wq0YyvBozlrrMsZ0kGiMA7N2aaRUu78KHqDfc2sB0aM=
+			gDwPlwe1F90eAdMUUto4LQuEGauWU/wyaJ3H+AfXkFc=
 			</data>
 		</dict>
 		<key>ios-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VqYVh0VILONe1ZIx18nD4txmDog=
+			iscT9U+fOY4N5bFB+i1aeqiV5Dk=
 			</data>
 			<key>hash2</key>
 			<data>
-			C6FhNHzcIiuolCaxDnq4VN6//vyINyqTpGe6gckN7GE=
+			QNi264pG33EJwAztIusFmP6g2w3SebaKmXvS+c8gGsM=
 			</data>
 		</dict>
 		<key>ios-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B0M+yCuKiCG3rssiOgu5FLGsbn4=
+			h43rLeShZ8MR7nYIecMzZAihaOI=
 			</data>
 			<key>hash2</key>
 			<data>
-			wq0YyvBozlrrMsZ0kGiMA7N2aaRUu78KHqDfc2sB0aM=
+			gDwPlwe1F90eAdMUUto4LQuEGauWU/wyaJ3H+AfXkFc=
 			</data>
 		</dict>
 		<key>ios-arm64/RevenueCat.framework/Modules/module.modulemap</key>
@@ -826,44 +826,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QH5Fry15dTkKE5WgOuqfueCbfrs=
+			HA/DrpDtX/xEH4PgWp7F7+s4BgA=
 			</data>
 			<key>hash2</key>
 			<data>
-			dKOeABMkf7BzFkLcRAoaZ3MCUTc3RRUTObXUYYqRsvY=
+			HcZYXm3zsETsEpj9hVFn5epLMKVne+iNuEAJYPHGFLs=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hu2EGOdabWGKRTrPyzXeU6qJhPk=
+			Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0XjAmhoBdWCwce7et6FRH63+yoifld4HJfeUH3LI0w=
+			SF8txbM9e5shpin/3FovsIdYwMFW4c2Q10Yr08f5kgI=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sc/nF0siRGbrN5HCEhsgKiwDqg8=
+			9k2DjjBY+KgaEfCllvpHYhrX0lc=
 			</data>
 			<key>hash2</key>
 			<data>
-			jLXufUwVgte/Xy0Rqam5XbKpLMp9bMhJBlSod5wtURk=
+			7ut3FNpritD9IbMXZ5DJA4MjxnW6qJvDzruVCap6cmQ=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jY7G/YbyDjybfLyj0DnJfsVh+GU=
+			+MvR03YbUWRyT6KvEWjAOerVyIY=
 			</data>
 			<key>hash2</key>
 			<data>
-			LVeiy22lkmsxdLpHaaH/zINpV+iqoG8gyODo1IHFqY8=
+			GciM1dAGaorCpU7kbUyfqn0GxQoJSpBD7827zG17TJg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Headers</key>
@@ -890,11 +890,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EaXCEPNwPbXoxFnrJbfQiFkTrQo=
+			LgJTKAlBzZ43uaqdEgVHRxnRiLs=
 			</data>
 			<key>hash2</key>
 			<data>
-			SFYMS1dMseIFi+6BbePC00EZqY+7tSIRuTAWecmAjIQ=
+			AvJ4gK1o7L5aJ+iVPYB2Dgvtf00Ma6F2YZW8+Fxd0RY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Headers/RevenueCat.h</key>
@@ -912,88 +912,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d+mJG8yDJ9dJSVmx5mZc96cIj0o=
+			hy343YN1MQU431IleJ8mz4y9Ceo=
 			</data>
 			<key>hash2</key>
 			<data>
-			k6KtBlOznNOawLO9nEdPk9OOk6CBc72DIuq9W2TRJEA=
+			j1wa9H6IKjb8O3xDlQGfaFJZvgsfwQ/9w6XMae7kk/8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4M6I5sVuMeE5u6EPjPCE442ABSE=
+			bc+cqj+HQM+nWsMP4sQiGae08FA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q4mnM6TlqRxba5+OPzVrcKXvp4e9BH+RHQq5OVzDHWk=
+			+1ZaUU3DI8Be1XtSJEX9lQtzDAS2ABfKScYpwyJwfP0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			x7gZPX5KEqLmzALIlqAjUTrKQxk=
+			SOxhUAkr/k6/CCzDckHNMsJSAFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			kTfAvl7fjELLSX+4uElzavil3/9kLkekGUJKL8DqywE=
+			S0tKzIlrAGAhMr6u3hRr29a2TkIeCGAIYfOydl5Bibo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4M6I5sVuMeE5u6EPjPCE442ABSE=
+			bc+cqj+HQM+nWsMP4sQiGae08FA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q4mnM6TlqRxba5+OPzVrcKXvp4e9BH+RHQq5OVzDHWk=
+			+1ZaUU3DI8Be1XtSJEX9lQtzDAS2ABfKScYpwyJwfP0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d+mJG8yDJ9dJSVmx5mZc96cIj0o=
+			hy343YN1MQU431IleJ8mz4y9Ceo=
 			</data>
 			<key>hash2</key>
 			<data>
-			k6KtBlOznNOawLO9nEdPk9OOk6CBc72DIuq9W2TRJEA=
+			j1wa9H6IKjb8O3xDlQGfaFJZvgsfwQ/9w6XMae7kk/8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zM1wKtD7Lxjh4xkp6RwtSZymYXA=
+			CJV/Qp0Dve9BXtFpXgnXi4hhUCQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			/obdm4TW/4tryn3zYTbHUY6HnjFdrtZ3v30VvuhNf98=
+			L8aoaCc2rys/A6yL0eIsuwIBcTzqK2qMUZ5guQvLOy4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1YTB3ZL4l6ISVJrEqO8V1ysQT6Q=
+			3KDnzqY6nGpyvGMywH+IrjOaO08=
 			</data>
 			<key>hash2</key>
 			<data>
-			IZvh1JHlmX+mGbR35aGLMbVpTeB8WEMABfjgPseNAHc=
+			TMIgpCCnrBoadbd98xgKe1cyzHfXfTuIFk+Nqo8+5gg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zM1wKtD7Lxjh4xkp6RwtSZymYXA=
+			CJV/Qp0Dve9BXtFpXgnXi4hhUCQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			/obdm4TW/4tryn3zYTbHUY6HnjFdrtZ3v30VvuhNf98=
+			L8aoaCc2rys/A6yL0eIsuwIBcTzqK2qMUZ5guQvLOy4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Modules/module.modulemap</key>
@@ -1011,11 +1011,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ohqpfxp855g17H8T9ouxhqqm/ak=
+			0BG+isrzcN5ADsykuDs9jWN00K4=
 			</data>
 			<key>hash2</key>
 			<data>
-			zsgcSKA11/IhRWoiE3nRAiymis+EGHZDwLYhvbWyqR0=
+			BKTZR9X7rdCTwySJ2Hl1ByP/IqJAUkcziRgt/OOdhsY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
@@ -1033,11 +1033,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SkvNaWe5bDoPW3W63Xh36Pp9UZM=
+			/iQXKbt+k6V/2XgXRAVVSeYV4T0=
 			</data>
 			<key>hash2</key>
 			<data>
-			5DsssYLTzq8qyL4cmR09DCSW9VEYry5zrXNFe5kR+HU=
+			Ufwxp0HKg75T7+yjjym0IKOedxGH4AB5GKCRML3b9LM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/RevenueCat.framework/Versions/Current</key>
@@ -1049,55 +1049,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hu2EGOdabWGKRTrPyzXeU6qJhPk=
+			Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0XjAmhoBdWCwce7et6FRH63+yoifld4HJfeUH3LI0w=
+			SF8txbM9e5shpin/3FovsIdYwMFW4c2Q10Yr08f5kgI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KAfSVoO+TutU8RTympQk6T9L6Vk=
+			6cFz2ro4o7sgJVCZ9Oh9gG7iFjU=
 			</data>
 			<key>hash2</key>
 			<data>
-			gm711YtxupKPa2JSP1okOdsF4NscHo+GzNvU+5l2qnU=
+			+KLPkXH5E/HGxopgm1E9F3jr9V96wrLM4/mYKGgHOhE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uaf/GNob2e3/Z7XQQUluym8U1HE=
+			jAEoIRKnVUijLO7SWNjlzGZH2Lg=
 			</data>
 			<key>hash2</key>
 			<data>
-			xGhtXtKKXNGcT02y7rlNEuWtgrrTA+IlBv5aiRwBbUI=
+			Z+5R31cTuGt+fs/T/KUYpLWu56di7CZyf21PU8QpFEY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/x86_64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aJvLL2x86gKYMOnuUHvwtr+UIJU=
+			5oNaeE7Kz/CK1PXiT5iwm3uisDY=
 			</data>
 			<key>hash2</key>
 			<data>
-			yK8d7y7N8E5Hh52hbLVf4QL1Dvbn4p9E272/svTwKrc=
+			2HGKtZyWUiy4mVI24/YUte678ufSFSDSWGtCPiqZpYM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vi67CxP5RzF4f3DaIt9mtyCQ9kc=
+			0b9m1boMWWcm42c1s3KgqYYg90U=
 			</data>
 			<key>hash2</key>
 			<data>
-			XTIk4LMVnKgI7fE1HI1x075i4k4le025X3AXd6R2jbE=
+			1rS2ZEJg/7IMAl6gtwMgt77YnxiK6IivPaG1lC5mhF0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat.h</key>
@@ -1115,99 +1115,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2GmnP0PAgKbm1ie4VbUub73ozr8=
+			IGwkKBLnAMIoYyxcheUljLTufBk=
 			</data>
 			<key>hash2</key>
 			<data>
-			D5bQ8JcK/4L2bPzWy+mYE7W2X7zdUs90+WahbW6Mt7k=
+			JimGSn1HROJffPzcajI+Yj37q4dxsZ/OCGJRqEGY1sY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2JUDho4S8Y3vb12tlHzScdgj/J0=
+			RUDeKLRsOHaof28/Wgar7ISZnq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			tayq2K9iwol/aX0UAmRdoO/X/S9YidilENWTMq3Ngeg=
+			VhHiYPJbMdPVu/R42k+IXPQ7ebXmg9B6OmF4Dk55yUE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dGL/8h4V9412HhjerVovYnyXYT8=
+			r3E5v8u3vplbmtCrOYtesKvTglI=
 			</data>
 			<key>hash2</key>
 			<data>
-			xHoEfExPol+whoVAJ4H3yDIl1IuoRnSkOnoZXEDTndM=
+			tsKsAR+gDc3H27fbvwC5044QjD+N1fPoYAm4FGX/uDM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fYUX4vppXwpM0ENnCyfb44k1kS0=
+			DaQrr59n5XI3yok026CZai72gvM=
 			</data>
 			<key>hash2</key>
 			<data>
-			YUVtI7XDWcTiWZ7KxnbZC4u8NN/rNTeAr2ob69QZpnw=
+			CNi47HzN2tWCW5syAVFpyY41loh376Baairv+9pmHwM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dGL/8h4V9412HhjerVovYnyXYT8=
+			r3E5v8u3vplbmtCrOYtesKvTglI=
 			</data>
 			<key>hash2</key>
 			<data>
-			xHoEfExPol+whoVAJ4H3yDIl1IuoRnSkOnoZXEDTndM=
+			tsKsAR+gDc3H27fbvwC5044QjD+N1fPoYAm4FGX/uDM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2JUDho4S8Y3vb12tlHzScdgj/J0=
+			RUDeKLRsOHaof28/Wgar7ISZnq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			tayq2K9iwol/aX0UAmRdoO/X/S9YidilENWTMq3Ngeg=
+			VhHiYPJbMdPVu/R42k+IXPQ7ebXmg9B6OmF4Dk55yUE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iOzS8J88agdjtv+/c1cgW+0e6qc=
+			ci5+eTCURu+djiiNcbra8SjRbQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			xF0OXsSj66pAgOcHoZz4+LLeBJ3GpgNHmmmfEU+vzCI=
+			JBsiceav3SX/xchGzjLfyTcqSc6DpcLemtEnyxtr3AU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lKAX3fZtPvIRLo/ycgGHiSeXK1Q=
+			caYsld888G2z4pBD+o72V3UWS84=
 			</data>
 			<key>hash2</key>
 			<data>
-			j54i1saTLHSdpURQbYpf3LlkItaU2YTcUuDLFcES0TI=
+			rcIKMZPI+F6WWc1RLUUSqyRgKw7yKzgA7SU+ffRKKe4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iOzS8J88agdjtv+/c1cgW+0e6qc=
+			ci5+eTCURu+djiiNcbra8SjRbQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			xF0OXsSj66pAgOcHoZz4+LLeBJ3GpgNHmmmfEU+vzCI=
+			JBsiceav3SX/xchGzjLfyTcqSc6DpcLemtEnyxtr3AU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/Modules/module.modulemap</key>
@@ -1236,66 +1236,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vvW2fOWNw/IvT18uE0yel729LRU=
+			osdWqBqMa0uMdV3UxeknZvBKF4Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			uhnM6UXkZ0uxngLh8Ic7L1djDs3c79YgzfPvo/M0CFE=
+			KEYx30fVTO0MSDUYtkoKnsKh1uLJ+Zy0fBN+0T4f36M=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/RevenueCat.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			35wJR/OCjrpCTazh4Bn93zRs9+A=
+			tXJxEKIwfNFGoBJMEWq4lc6k0rQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			3Qcbq/bGaaB4Yhbg29YRN8n+SyCCn5ZDaahU1btVQyo=
+			RziPL/Yy32i9K0Jx1HYzUYejUNEnRsfFAfB/mFYphGU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hu2EGOdabWGKRTrPyzXeU6qJhPk=
+			Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0XjAmhoBdWCwce7et6FRH63+yoifld4HJfeUH3LI0w=
+			SF8txbM9e5shpin/3FovsIdYwMFW4c2Q10Yr08f5kgI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p426tn5ptwcudRcEGV8/OebqIDs=
+			Du0WKP0WIugXKviUA0Br58YNVDY=
 			</data>
 			<key>hash2</key>
 			<data>
-			o23TiA7mcFyTSe9eTtkTmYV2HgAMecV3Nn8246F0YxA=
+			Ew9OjNdrB6bMe8GTq2aWl8LiJseWbDTHE/7NTBYl/4s=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wxKwC/AmKOQK40WRwIQXPpWRsYo=
+			FFojwyTgKg6JbD0TQSn9btdctfI=
 			</data>
 			<key>hash2</key>
 			<data>
-			0/39oVCxPILrRPaa7LcIjzZrzCsr/JykBnLXfVxeu3E=
+			OY3k43vG+niu5GXmiFlWtOfAZayNg0uok4QUs5lfuV4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/x86_64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pYRYxJ/yCvilCO7w1Seo1caCXnc=
+			h6iadifTJlWOno/1HQqcRu2Xs9A=
 			</data>
 			<key>hash2</key>
 			<data>
-			0lpTvNWJGAWzuje7YVgKcmfAgHadXVrfTyXPFg2YzQs=
+			7pNQWH1NCgfcXyIw944cmJC6/alNoTGZSmVPxl+bwE8=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Headers</key>
@@ -1322,11 +1322,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1gtmuaeJe2GUKPaAH7F0ZP+T8zI=
+			Y9Q3RLzo+BpsDj5klKi+hBDeZHU=
 			</data>
 			<key>hash2</key>
 			<data>
-			iagxdZjW9loiq8P1BUhm46EAzrPICmiVdoaXi6LTP/U=
+			wAdzDfN3ULEFBQ3X27glT27JlHThT/VSrPNpWd3pZEY=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Headers/RevenueCat.h</key>
@@ -1344,88 +1344,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mnwL2TQp3jqehbeo+oyOJuMgC9w=
+			NIP96dRwQd5Ul6mTsynbumGyj+c=
 			</data>
 			<key>hash2</key>
 			<data>
-			q65RQ9JvEEWs4IULwgDMujC35taQnzf4hLohxu7wYY4=
+			sOqNS47xqa/S2nQi08PHnyRBYQGNCd6hhS6By8pbmVs=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EI2BYDY3XF8vgHcX5+5bKYTs3e0=
+			4Asbv50TORJh5OQ/98R4X0D0Fsw=
 			</data>
 			<key>hash2</key>
 			<data>
-			VPRARx2J9BNhWsd1hrQV/czC0f7VZPcuLezHl/dB6Mo=
+			AdYXaI5vwv2PRS1uGv7+0VeyAgVzqJSP12gDt7G06Ko=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uAFLfiazmGPBIwhLdHKuqJtII+g=
+			LiZ9CRnYbakYAz8ae3PdGxbybZg=
 			</data>
 			<key>hash2</key>
 			<data>
-			pP6phms7FYbPzeFpWg8y71kYfmLX0Rvzqmcus4JJvGs=
+			b+0Nz+P/4JfHyLu172fhXrbxMPT8cXphyxUr/6+kfGY=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EI2BYDY3XF8vgHcX5+5bKYTs3e0=
+			4Asbv50TORJh5OQ/98R4X0D0Fsw=
 			</data>
 			<key>hash2</key>
 			<data>
-			VPRARx2J9BNhWsd1hrQV/czC0f7VZPcuLezHl/dB6Mo=
+			AdYXaI5vwv2PRS1uGv7+0VeyAgVzqJSP12gDt7G06Ko=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mnwL2TQp3jqehbeo+oyOJuMgC9w=
+			NIP96dRwQd5Ul6mTsynbumGyj+c=
 			</data>
 			<key>hash2</key>
 			<data>
-			q65RQ9JvEEWs4IULwgDMujC35taQnzf4hLohxu7wYY4=
+			sOqNS47xqa/S2nQi08PHnyRBYQGNCd6hhS6By8pbmVs=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h9TmEaEoIHKX+KV6xcQpqhPN+2o=
+			Ad2D04crspdmAGrwxOTFQDQUUfo=
 			</data>
 			<key>hash2</key>
 			<data>
-			mqdqMgqm53GDWqTLs2Yxow2/pN2BLbnE+yKVy3f0ORY=
+			SbUrKDOiXW/TlU4atyIAhyWhggM/2rBzoQ/K9NUXIdg=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7Hs9VzGv9RRvMRIxUDUp11nHAkg=
+			fKvIINUD0M4EV7cdzQggzVv8VaU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z9dWKJ/Cj21eZ2MIsQr24DfcpZff2z0q0V2MyxTa8rw=
+			RDweRLTWtyd42TfrW3wked9Ztgd6A5F5BYtExbU/xPA=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/RevenueCat.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h9TmEaEoIHKX+KV6xcQpqhPN+2o=
+			Ad2D04crspdmAGrwxOTFQDQUUfo=
 			</data>
 			<key>hash2</key>
 			<data>
-			mqdqMgqm53GDWqTLs2Yxow2/pN2BLbnE+yKVy3f0ORY=
+			SbUrKDOiXW/TlU4atyIAhyWhggM/2rBzoQ/K9NUXIdg=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Modules/module.modulemap</key>
@@ -1443,11 +1443,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0w1SWVBJx69foSg8AkxsOJPNmMA=
+			JAHPEC1gH1k7QujaObUA5DJXtxE=
 			</data>
 			<key>hash2</key>
 			<data>
-			uzGTDdB7BSrFVJftNYHcWDDFAecZ+XzU+NzB+yl5itE=
+			l/3FbwbeQ0sYFMbCK93yiqyzzXuoXaYbgCPca8Y+eLY=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
@@ -1465,11 +1465,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DjqEMhBL8eSJWjIIiKi1xSwk2FU=
+			364ldi44QvciedBYfQAweCFi2Dg=
 			</data>
 			<key>hash2</key>
 			<data>
-			vtySSwbLtJPw1Lumr0Nquvu7DN/uit0XWXH0glgvrJ0=
+			V/wabE7UcufRAvrGVUuM4xSvpeiFlMQU0tVY9wm+e98=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/RevenueCat.framework/Versions/Current</key>
@@ -1481,55 +1481,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hu2EGOdabWGKRTrPyzXeU6qJhPk=
+			Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0XjAmhoBdWCwce7et6FRH63+yoifld4HJfeUH3LI0w=
+			SF8txbM9e5shpin/3FovsIdYwMFW4c2Q10Yr08f5kgI=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4LogKJ1SdOxaI7C+AD1E7+4lPJc=
+			b+aeBvLHC0P+KC0nEZ7M6CxC7Ls=
 			</data>
 			<key>hash2</key>
 			<data>
-			oDllBkpAK2Lt2RR0WTGufH9p+xjLTWRxA2ZjkfmrHS8=
+			MT5WQNK4Kr2JDRBsRwN2zBnB65pX2UDcEqv4v+LalvA=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			O4qiqhA4wYoxbvpGe++XklT0ucE=
+			uNeCDcq6We7xzHHfJ5B1VlMIpdE=
 			</data>
 			<key>hash2</key>
 			<data>
-			mG391FEuvACZc8rhP21C7lwdcLP6X/rBf8AH46lR7fw=
+			Qhh2owQFV+gqaSWbeCIDCFP/pLF0EoMyHMb2CEP/zOw=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/x86_64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gKmwIgR4o6gZ9k2q4B0xWbxtcVM=
+			0W8mxUFGFdXeU/kpNlpBQNAt0rs=
 			</data>
 			<key>hash2</key>
 			<data>
-			XPv0tjfNXcAn8B9yPWVNdFcMhW6ght+PfNHsb8kPlHM=
+			yVQJ3GA9KqcYSgA6U4V2ba5DmeXPxIaXxkg6Ezw99ak=
 			</data>
 		</dict>
 		<key>tvos-arm64/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z+TyancLkXmeMx4mPIBAzvu1etc=
+			J5R3eEkXdWGn6fDrwLEDMy3laUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			bMDcRWb3NNV0GkHzhOY6c2vPN8DosjU9ARPZJiTR35E=
+			cqaL2FY9pt29l/xA3eiCTcxNN+uFcJsdAchcoC7zLAA=
 			</data>
 		</dict>
 		<key>tvos-arm64/RevenueCat.framework/Headers/RevenueCat.h</key>
@@ -1547,55 +1547,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qWCesZvUoC96n/6Xs2VYVxlCp9I=
+			MaBzn7VqUMKKN4LOwo51dQcHIGg=
 			</data>
 			<key>hash2</key>
 			<data>
-			YLJD8Cy9hmOrGWipvbJcUuxrXpSddBDkVJtJKOw/f6g=
+			QNANi1SAj+Y4MMviXAzbvdrKhjG3xfO0EzCXV6XRTgw=
 			</data>
 		</dict>
 		<key>tvos-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AiGMkC8OnSA+M9lXZ3Ya1EmHuqU=
+			ynEULXE8KgI1lA//p+MjPvOnVYI=
 			</data>
 			<key>hash2</key>
 			<data>
-			208k31ZGOXwWgp9/Ze27J2SwcI09f777w3I64aTEeNI=
+			jPsj0V242is6C8QDStVDZmjVQMTs263WbgTwNJe6D4U=
 			</data>
 		</dict>
 		<key>tvos-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iM4rUoB76ETD7O8lcumjQoTOc+4=
+			awgB8hxGq8EKhaJcbHIt9/rKAPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			wajEIVwW0ejGKu3kMGDP+fHVQSLeuHXkZ/UsHlNva3U=
+			4sX5xPUHQoFFdlCHc5IV6+vgxNOEGf89qDq7rukXg88=
 			</data>
 		</dict>
 		<key>tvos-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CyrO05Rtz5qgziWlQ4UfNDhaQuI=
+			XlkSdP+1A4TwBnbJmKaaKRPxLuI=
 			</data>
 			<key>hash2</key>
 			<data>
-			v9PBcUf2dAQGBsGoS56a6Bczo2bmYGqKraygByGMoyk=
+			YhVfIv86xJS+c6ww5bbFUPzAtJb11kgU7F2InVZ1py0=
 			</data>
 		</dict>
 		<key>tvos-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iM4rUoB76ETD7O8lcumjQoTOc+4=
+			awgB8hxGq8EKhaJcbHIt9/rKAPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			wajEIVwW0ejGKu3kMGDP+fHVQSLeuHXkZ/UsHlNva3U=
+			4sX5xPUHQoFFdlCHc5IV6+vgxNOEGf89qDq7rukXg88=
 			</data>
 		</dict>
 		<key>tvos-arm64/RevenueCat.framework/Modules/module.modulemap</key>
@@ -1624,55 +1624,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rxiZ3HfmuCE3MT12OT7zr2ZV99Y=
+			gn2Cg6bLRfUDrIre958egllrZFs=
 			</data>
 			<key>hash2</key>
 			<data>
-			cb9MnK5UhZLlsrkRXB2ubEoJTyR1Jeu+ir27sD4ucZY=
+			AtCIKakUzliRYrEuKE/+3aOsE00S/dCggFopnu+SSWo=
 			</data>
 		</dict>
 		<key>tvos-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hu2EGOdabWGKRTrPyzXeU6qJhPk=
+			Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0XjAmhoBdWCwce7et6FRH63+yoifld4HJfeUH3LI0w=
+			SF8txbM9e5shpin/3FovsIdYwMFW4c2Q10Yr08f5kgI=
 			</data>
 		</dict>
 		<key>tvos-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cGlWhx2Zp/iPqv8xNaMFnWYTzqY=
+			L2eSnIAD7ywXm0tk+JcBk43mlFA=
 			</data>
 			<key>hash2</key>
 			<data>
-			QrzS0D0Mo01a3uKXht9Gr90Ge6EjuCZ/luF3raBOEq0=
+			dZubq9kpD6jo5X/ibgm8IYiUNd3DWlSVvmbuZWKyggM=
 			</data>
 		</dict>
 		<key>tvos-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xhgl9x1HA53NAQFn8PmrqeXoP6A=
+			f02+SYiV2ctbnLIUffDUYdxHFgg=
 			</data>
 			<key>hash2</key>
 			<data>
-			+IlnL4MD4er8d+aadNIRxgptWn096TvsVIyF3CT9FCU=
+			gVuEXL1tBdwlSY1X/v1r0PM7rn+/Bud5tXdDkfyOmEc=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			o4ZVliZ9o295eCakQ5FEyqNvqs8=
+			OX88OLL0teL1MpqmqpdGNnAp004=
 			</data>
 			<key>hash2</key>
 			<data>
-			SgFD1q66lJ9R25w8PMDNjAQsgTch2/aoXFpxbMlqtl4=
+			yiBbHK2G3UK6PLwyd3mahbkHop3G1VE0gCfpu5Fk2Ro=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat.h</key>
@@ -1690,99 +1690,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rnozNztMMNS4JE2BeHp+0+a07Tc=
+			0A7F/04t6QUgWGCeFW+P26UebSk=
 			</data>
 			<key>hash2</key>
 			<data>
-			GLBZue1IZVk5gXUGKeC1+W2Z2ao97VxLpopl/tcs1B4=
+			BveBuuD5fF1+LRDR7/Nw+y+OBM4Jsomj1fASRmaVjyo=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ppV4v+AexcG51OiEugPYGSlPDNY=
+			y4qy7vYbe/2DS6KuR6wt/YnPZic=
 			</data>
 			<key>hash2</key>
 			<data>
-			4iTqxH+nyAz414Tc0LX9Zy0KNPJfGr41Ou1Nb+k4EQo=
+			eNiymuPCom2ak2DcEFqmWF3sDkUmVfuQztWZi8wVPm8=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OCXtdLFww0j0tLKx8uKW+rplLV0=
+			T5uZevtWbB5aEQDc0aB0luKwqe4=
 			</data>
 			<key>hash2</key>
 			<data>
-			NBvD+BZ9fjUQ0gTdhBkeSI0GdmWYTYrrWRKxahbjD3Q=
+			k1TbI/cvxtlgjGiV0wweUfrCV8eQjbNjc51mpyXz4zw=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7Y4+odeODV6KYcOaSDF27XSWpJI=
+			4J+7KyHuWKwuN2o8eAtCdAaHtmg=
 			</data>
 			<key>hash2</key>
 			<data>
-			9l7LSEyQQbnkNYhLeYLRVH3ks+2Kt9OXrewuPixDflg=
+			s5Sb2nVrPacjV3oarAgmW63nsfpWeKH07R89T+DzMBo=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OCXtdLFww0j0tLKx8uKW+rplLV0=
+			T5uZevtWbB5aEQDc0aB0luKwqe4=
 			</data>
 			<key>hash2</key>
 			<data>
-			NBvD+BZ9fjUQ0gTdhBkeSI0GdmWYTYrrWRKxahbjD3Q=
+			k1TbI/cvxtlgjGiV0wweUfrCV8eQjbNjc51mpyXz4zw=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ppV4v+AexcG51OiEugPYGSlPDNY=
+			y4qy7vYbe/2DS6KuR6wt/YnPZic=
 			</data>
 			<key>hash2</key>
 			<data>
-			4iTqxH+nyAz414Tc0LX9Zy0KNPJfGr41Ou1Nb+k4EQo=
+			eNiymuPCom2ak2DcEFqmWF3sDkUmVfuQztWZi8wVPm8=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hG4UPhbDda9jjPJvvzR8jzp53Js=
+			3IDqUBqzAnspeTotWNb4UhKRDv0=
 			</data>
 			<key>hash2</key>
 			<data>
-			hQmwr9/7bNqrqlRb61lD36++872t4KuvM4yr/va1MR4=
+			x6OhcTs+UMHFMWrVTBDA9Zkz8reOTLdYEp6ho/m/f4E=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LaQwjexenLAkjN4mMX8Ewe52hFY=
+			oKzhwAZ66yxjtaaSoCFuJdtph8w=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xp/oAvHG8kIlnZK07FxO5bgf4aTx68ox7ykGXBvb0XQ=
+			d1xJWaPF9yWomV9GtJNuEpgaZIdw2HMSpdMFniUFrbQ=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hG4UPhbDda9jjPJvvzR8jzp53Js=
+			3IDqUBqzAnspeTotWNb4UhKRDv0=
 			</data>
 			<key>hash2</key>
 			<data>
-			hQmwr9/7bNqrqlRb61lD36++872t4KuvM4yr/va1MR4=
+			x6OhcTs+UMHFMWrVTBDA9Zkz8reOTLdYEp6ho/m/f4E=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/Modules/module.modulemap</key>
@@ -1811,77 +1811,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nkGXSsnu6f9HCN/DoqLIs/rQfqc=
+			t1I3YvXg3s2u2STe6yqtMULywww=
 			</data>
 			<key>hash2</key>
 			<data>
-			f9ZnrCClFRJYOQ62reutQoeHLqNGH0lJPMNLyOBLyRQ=
+			Vvsa2XGCXFJp0kgVZiwjZBcPYjR8jrzNEl0HqbPIbkI=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/RevenueCat.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cdVT52YCuWZKSy6/76rXQUA1FPQ=
+			luk9vBJ48yQx9WxlMMDwy/leg7U=
 			</data>
 			<key>hash2</key>
 			<data>
-			SmkvWFRL4mO02aCrIiXu6B7x7XDq91W7pjxBEGDPbK8=
+			7qZdJHP/v8JC7t+i+92/ybDlrPfAQnoDHlMpXeOT7t8=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hu2EGOdabWGKRTrPyzXeU6qJhPk=
+			Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0XjAmhoBdWCwce7et6FRH63+yoifld4HJfeUH3LI0w=
+			SF8txbM9e5shpin/3FovsIdYwMFW4c2Q10Yr08f5kgI=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JlCjatirOywlQ6PGjHecPNYxpUs=
+			bPl6BiiXw5YJJkxHAjS0eyWRwVw=
 			</data>
 			<key>hash2</key>
 			<data>
-			5M6x/eeX7TpebpTyIRj6XpWgREqrnI/VcrL1O7NU+1g=
+			eDUlOPV1Z13cB82TwiGClOuwylGn1ma0myCcUe2E3To=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PXM06UMExtCNjKHegiR7A0KGNLg=
+			t8XduqsNqPbt9iIqPopTe93/qgo=
 			</data>
 			<key>hash2</key>
 			<data>
-			NkFnJbC/qjBMGVjJlW/cOrO84mi/mO/FUiLpdmX2JNY=
+			JXEMY/IkD4nuPzYBJXY8E50A4X0D61A14Nm5yzPx688=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/x86_64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rxXdrwOZ4dykcS0eAHhKUy0YRyw=
+			0PXcu2OvASXSq2Ho+PZ9q1TvFSs=
 			</data>
 			<key>hash2</key>
 			<data>
-			zR+ZDwYXr/Xn9Dhm+XskUTKb8cHIQUWmOr5v3Kjb+wQ=
+			knY+0Zd2FLyPhw5nAbVlWPd6PW5w6p0BGypxeFvVIOE=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G4mTs7kh6depzXi7t/BULaCT8gw=
+			CwvGRkOjJtpsC5m2+cnmQo/p5Dg=
 			</data>
 			<key>hash2</key>
 			<data>
-			A63dJz2CjqfGcrLK0DS1/dRxMUn+q+d7mIC/9Tjfo9s=
+			WLtyQYILKM71VdR+3rvdFkax4+HVdFDXej3kNArYTQQ=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Headers/RevenueCat.h</key>
@@ -1899,143 +1899,143 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iXNNEqOlCLNrmZyLfo+odO8FhYY=
+			+Wo1+KFLp27puVGG1u4Bd13l04U=
 			</data>
 			<key>hash2</key>
 			<data>
-			CBsiFCPdwKoLEQscB4rksVQNU6XX2sYjB/g2zu+bY1I=
+			O6EI9VibF84ucG06Zcqa32W/WrEZw0f7XYo1szn0yPY=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uISDeJDdZ2FIVhTpVIm5n3fUmVA=
+			V5eZ73dnitsu1BZuPXIBbBOGInw=
 			</data>
 			<key>hash2</key>
 			<data>
-			bgQry4byEH0N74XZdQ49dLD0fsZsIOAoAz1eOVHq/pM=
+			/R+mZFElsguC/pamxR8ESISLIhdXX24H5conq3t/15w=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bX1ZI94xjpi8T5UYO4Tmna2XpgU=
+			++oDj8asbYOHgLzyx2HMBHDu3ho=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZSjC1Xn4Uiv3LsNkK0lHZZ4/Z35oTTzOGfQEF9qXD98=
+			LxifMVlL1ni1Kyl0M0QZB2yIuEDHJTPmGIT9tt7xvT8=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jPgJGGmVc6fbsk5S+2SYGEgwiVc=
+			inZt+o7/B/X0+Nt+WisdspJW4Fc=
 			</data>
 			<key>hash2</key>
 			<data>
-			MHiguDMxTkiRiEI0bkbj8P7IzA++dSXDSsbXQRUX7GM=
+			/kBDj6pTaGguqXVuwtLlBvHzn/kgt4BitEyIfWHu88M=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bX1ZI94xjpi8T5UYO4Tmna2XpgU=
+			++oDj8asbYOHgLzyx2HMBHDu3ho=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZSjC1Xn4Uiv3LsNkK0lHZZ4/Z35oTTzOGfQEF9qXD98=
+			LxifMVlL1ni1Kyl0M0QZB2yIuEDHJTPmGIT9tt7xvT8=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uISDeJDdZ2FIVhTpVIm5n3fUmVA=
+			V5eZ73dnitsu1BZuPXIBbBOGInw=
 			</data>
 			<key>hash2</key>
 			<data>
-			bgQry4byEH0N74XZdQ49dLD0fsZsIOAoAz1eOVHq/pM=
+			/R+mZFElsguC/pamxR8ESISLIhdXX24H5conq3t/15w=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PkKE6IPpVRhuNpqO/2FSLCOpX1E=
+			uXfm2uFV+i1P4AEZgmkyAWuhsmk=
 			</data>
 			<key>hash2</key>
 			<data>
-			WllBu0aKgHIRDnQguhWBljrzhMD6/5vzurZE6UdtpVc=
+			4EDjK6I8n8UmFAchmrfdjnR7FB3RrlKI70xANap3Sk8=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64_32-apple-watchos.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b4eYdp3E492znxkHAzFG/ke8el4=
+			WFoXLavJS13SWpDpIp6RrKfmhTI=
 			</data>
 			<key>hash2</key>
 			<data>
-			wZwWz68ODbdXoCYwZNl7+/lWh6CohtHW9kQmFCnyHSk=
+			Dvoq02zS4/t1DkgCB8y/pb8DxQAOrIkc8ZWKtdOlq6Q=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64_32-apple-watchos.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PkKE6IPpVRhuNpqO/2FSLCOpX1E=
+			uXfm2uFV+i1P4AEZgmkyAWuhsmk=
 			</data>
 			<key>hash2</key>
 			<data>
-			WllBu0aKgHIRDnQguhWBljrzhMD6/5vzurZE6UdtpVc=
+			4EDjK6I8n8UmFAchmrfdjnR7FB3RrlKI70xANap3Sk8=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/armv7k-apple-watchos.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uISDeJDdZ2FIVhTpVIm5n3fUmVA=
+			V5eZ73dnitsu1BZuPXIBbBOGInw=
 			</data>
 			<key>hash2</key>
 			<data>
-			bgQry4byEH0N74XZdQ49dLD0fsZsIOAoAz1eOVHq/pM=
+			/R+mZFElsguC/pamxR8ESISLIhdXX24H5conq3t/15w=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/armv7k-apple-watchos.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6e085mkEC3XKlTIWzQsjc+j6/aU=
+			AEA9dENOwFJByEc4Z+wy3qw5T0s=
 			</data>
 			<key>hash2</key>
 			<data>
-			tJbuG4eKkZSW2Zn174uiGqLI+vgyM/Y0B5dNiqG6JJc=
+			DNFYK3Uon5BHhsBM9PFnRrdFX0jXt7gR06zcCO8O13I=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/armv7k-apple-watchos.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			46jHAXvoueyNOyyJPvFEdIW8zP4=
+			vv5d6TUCmmL26hLq6P+ZmEvPdT8=
 			</data>
 			<key>hash2</key>
 			<data>
-			bDBhGMU0kSqR/H/AHwhgX87+36u9LOTtWBflMOe9G6I=
+			/BkUc0ljXxjzDF/vr3v0w1Cit8DIYlKe9v8U0kchNb0=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/RevenueCat.swiftmodule/armv7k-apple-watchos.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6e085mkEC3XKlTIWzQsjc+j6/aU=
+			AEA9dENOwFJByEc4Z+wy3qw5T0s=
 			</data>
 			<key>hash2</key>
 			<data>
-			tJbuG4eKkZSW2Zn174uiGqLI+vgyM/Y0B5dNiqG6JJc=
+			DNFYK3Uon5BHhsBM9PFnRrdFX0jXt7gR06zcCO8O13I=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/RevenueCat.framework/Modules/module.modulemap</key>
@@ -2064,77 +2064,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N/AnkRvzGksZPEs3CNRp7HL6J1o=
+			pxQ+1EnxFq2a83dPKMqao7hw/14=
 			</data>
 			<key>hash2</key>
 			<data>
-			BIOxbvLE2kqhfC6z1f1/aDyspJu3uplenrNYl6WbbQ8=
+			BOc2id4AQFGpiekNedmxqcdHmvNU94qpubllKriJKGc=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hu2EGOdabWGKRTrPyzXeU6qJhPk=
+			Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0XjAmhoBdWCwce7et6FRH63+yoifld4HJfeUH3LI0w=
+			SF8txbM9e5shpin/3FovsIdYwMFW4c2Q10Yr08f5kgI=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hD5joHhrGi9kqYTeQ403Ug8A9HY=
+			1dy3+eXpRyUpkEPnA6qCKnpz1ks=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vv31lNa+2biMyieEF+ODL9m3MUW7omZOo0zFeQU6CZ4=
+			U1Kp936E9OJWcVKyA0Vxzb5MqLKE3K7T2ApTuq9gIQ4=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0arIZuyt7io1vT2m111Rd02AafE=
+			fsdcZ95VTeEC7wJfPYgTqlP8rlo=
 			</data>
 			<key>hash2</key>
 			<data>
-			cDgTx3oiPbZO7xpJltOPOQc5QY9hWsHQF/DpBhJZcoI=
+			nU6Gqxi/p/vJUGdmF8LnCWsvW5sIjdX2oZf7vF10MHw=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64_32/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VXYA0PulBftjDE6n5d8vYQWmf8g=
+			Pu7QGmUcFq37b2rkcRNsaLOESZw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZDo/amC5QtuKadKYkz8IFVO+pL6DVqfLrfFbKmH5zYs=
+			LT5Z6tgaEC9M4OBW9czUrNb3QnyetMBFDNSzU8PazAI=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32_armv7k/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/arm/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ra05WHkTGa3K5TcAd3ZbzFcC6BA=
+			os3JwKShhNO1mKxZlkG27rE0IIA=
 			</data>
 			<key>hash2</key>
 			<data>
-			YOTaEJ3KdGvvUQr3d/12tqKzQlpmSzcvkH4S/i3/PYs=
+			bYbYzSltUjACZBhqxXW5m8nSO6hodnOJSboHYtlrBMI=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Xx1XBjo8kFRavWPOh3OwijgybFQ=
+			iP0lNgg8XkXjRqK7ZAv+5NUuVIw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Px8zF9XwVQGHtWwNcKfcE2cPZGfhrvbLtCJsrF3OH7A=
+			NIy9jTFHGL0A8X92xgXeWu/d50YqJPtub6KKi550j4U=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat.h</key>
@@ -2152,143 +2152,143 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o9nZO6YtYtik0DuqJfQ24QoWXec=
+			KQPcIUH4FV6XEQ3KFo/Zenjig1c=
 			</data>
 			<key>hash2</key>
 			<data>
-			zydptTZiJVvk/Plk85ji98riK014hzDz2oJn5/CpVmI=
+			Jg1CvVTCbljLopZPe62TJmV/Uw168uPTfDRz3eEUXF4=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ty9wtyqlZjIzKgqPwEP7sKp3Ogs=
+			/raTPXExQAYlSjwr4T7m3PR2DXU=
 			</data>
 			<key>hash2</key>
 			<data>
-			z6iccpK7LnavZyfwSlrHxGLyZ1l+EH4bp7FLPW66PLs=
+			VFHPktpUmJgUE5t3AcKj+BiVbz6Z5ANlfYYWRzhyGgQ=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kslsxTThu29Ji1Qr/3MiwWXOslY=
+			ysi3MjdU2Ru9dXbRYYf1EzwDjVA=
 			</data>
 			<key>hash2</key>
 			<data>
-			BlS9zfVH16RO3uA+QIwgkqBtM0kxob1GNbD8D0YU1po=
+			gPe0wGeAW1rpfIJNYL7Ul1NSJq7OS/9+IF1EwS+8KKs=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W8lAg3+hYyNUg2h/XBLBWj1Wo2w=
+			lILzF+jQ2r5EkeDVwCn+8/riR8U=
 			</data>
 			<key>hash2</key>
 			<data>
-			VnZ7Jy1Lyh0NGJCvzWQfsgU5CN0C2G2YggKx8usX5rM=
+			3Q7aFZQ99jsic36znw3Gcmiy511hR41lBzVI31ToImw=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kslsxTThu29Ji1Qr/3MiwWXOslY=
+			ysi3MjdU2Ru9dXbRYYf1EzwDjVA=
 			</data>
 			<key>hash2</key>
 			<data>
-			BlS9zfVH16RO3uA+QIwgkqBtM0kxob1GNbD8D0YU1po=
+			gPe0wGeAW1rpfIJNYL7Ul1NSJq7OS/9+IF1EwS+8KKs=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ty9wtyqlZjIzKgqPwEP7sKp3Ogs=
+			/raTPXExQAYlSjwr4T7m3PR2DXU=
 			</data>
 			<key>hash2</key>
 			<data>
-			z6iccpK7LnavZyfwSlrHxGLyZ1l+EH4bp7FLPW66PLs=
+			VFHPktpUmJgUE5t3AcKj+BiVbz6Z5ANlfYYWRzhyGgQ=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/i386-apple-watchos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9cYEYHJIGaEUm9CN0vK96yepvI8=
+			a2jVrQwpc5TtVImTYAyA17be2mU=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Yh7dnTCJgaDsjIsHe2SgIVgwrhS34oudvJXigORip4=
+			QGtgSyZUI2JrCO+oHVVq8tUbAq2KFrmYTp2v3Oxoh/g=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/i386-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fMlV0JZsArFxdYrgKrypWCl5rTo=
+			fXMm+lVBda6gZqVZLlWSz1lNa1s=
 			</data>
 			<key>hash2</key>
 			<data>
-			QerL8W317vwQJ8lbN6r2t9d4tBCxhSG/H/w+z/hFYB4=
+			AR49w+z3dmPbZoYQDVmz6hKLgT/SuKwMmaL00tE2sx8=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/i386-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9cYEYHJIGaEUm9CN0vK96yepvI8=
+			a2jVrQwpc5TtVImTYAyA17be2mU=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Yh7dnTCJgaDsjIsHe2SgIVgwrhS34oudvJXigORip4=
+			QGtgSyZUI2JrCO+oHVVq8tUbAq2KFrmYTp2v3Oxoh/g=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ty9wtyqlZjIzKgqPwEP7sKp3Ogs=
+			/raTPXExQAYlSjwr4T7m3PR2DXU=
 			</data>
 			<key>hash2</key>
 			<data>
-			z6iccpK7LnavZyfwSlrHxGLyZ1l+EH4bp7FLPW66PLs=
+			VFHPktpUmJgUE5t3AcKj+BiVbz6Z5ANlfYYWRzhyGgQ=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6X1/qLPe9BTLDkIEvNj62XIbGUs=
+			c9WXykO8/34j3PPohPFNOkStTS4=
 			</data>
 			<key>hash2</key>
 			<data>
-			IsSn8FW0TZF7LoMM0bQUqwBAQbe8XQoBBFDpPYXTgjY=
+			9knRv3nwwX5LUn7R0fraOIDbopQ6ALyQww7ITcmiotI=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wD1wMIWTYhbdj6qX7WXoZ9NU7Ts=
+			oFYRBZtqBTfqND063VsRAh42gx4=
 			</data>
 			<key>hash2</key>
 			<data>
-			3FrxGrbuPmeZijxTQ5arlSb37ueC183qw5aLvVWvwLc=
+			vMtyzskub61dF7mlZCiSm2QfAStyu2ELWY50r4G6acw=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6X1/qLPe9BTLDkIEvNj62XIbGUs=
+			c9WXykO8/34j3PPohPFNOkStTS4=
 			</data>
 			<key>hash2</key>
 			<data>
-			IsSn8FW0TZF7LoMM0bQUqwBAQbe8XQoBBFDpPYXTgjY=
+			9knRv3nwwX5LUn7R0fraOIDbopQ6ALyQww7ITcmiotI=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/Modules/module.modulemap</key>
@@ -2317,88 +2317,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			F8Rnc88PE+Isw4SHbCPtk6nML+o=
+			ARB7sLmj9qLH3SmaZvO3zOIB7o8=
 			</data>
 			<key>hash2</key>
 			<data>
-			/3/x0h1DkLXQOVrwS23M1HiCAsn2nNKNlZKP1IccZsM=
+			lGgz0nRWlXj/JBd6//4ZcoZYx4ZEZewKsoYbcvcOYgA=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/RevenueCat.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sB19WtWvvoxp13FGJUe7z6p8fE0=
+			c1AMflU/Curu3reRmlNXdlsOjYs=
 			</data>
 			<key>hash2</key>
 			<data>
-			U8ZpGUrWIk3FRI0jHQrmlBefnDbstaG0N3QJsCAZxQs=
+			Zt/UOQXi44ysAh+uIacSn8PsR2BCAQlzdlzh9RqhCeE=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hu2EGOdabWGKRTrPyzXeU6qJhPk=
+			Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0XjAmhoBdWCwce7et6FRH63+yoifld4HJfeUH3LI0w=
+			SF8txbM9e5shpin/3FovsIdYwMFW4c2Q10Yr08f5kgI=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jxwSw6QRsYek1xeScJiqOCZwk5s=
+			pm90lMi5q4ZSRFSnNWXA/sslaRY=
 			</data>
 			<key>hash2</key>
 			<data>
-			XMFNzNuEsSFX/ah2yCgpyWHwvuvJYmL0BIGrDB1xsAI=
+			bl/Yzx57no1i6osjl6ZpPz4XcrM+SLU1K6Ukc1Vsodo=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MqkI41zT2WQZi20WONEGSjXqcms=
+			Jyp7U5topt27ghU/NGSlpg/bxCM=
 			</data>
 			<key>hash2</key>
 			<data>
-			PCqHyEU0BQ6k+OPCjoYgOFNV/p+luW+zu8vvfj7oYDc=
+			9YEm1Zjmm9yadWA2ZHc3KS/weVC4PhkrqU9Oq1iiVi8=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/i386/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bAneOHv4tESHNRtMac+9rMfCOss=
+			bY2hb9NjnT4bZ3mMzSPNkdC8wew=
 			</data>
 			<key>hash2</key>
 			<data>
-			VWgbHyz0XNO0Cy75klivOmrgM2Y9Q8ucgeWSwo8myPc=
+			HXE+FJPG+MDFQjiSAOZgeCeWxDPUGxF7eWe1tOwPU5g=
 			</data>
 		</dict>
 		<key>watchos-arm64_i386_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/x86_64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HBIG01zPRpJFPpQgEen3hLSlIqc=
+			Fqw+lu+OR6z0q65fDGJnU8pFoF0=
 			</data>
 			<key>hash2</key>
 			<data>
-			kFmjL/Qic7wNRNi58nS0vPDQ51XIcVNxoTdrnirjmfo=
+			IotthqE/mM/23QOVwNAFX4z8shVpGMzNoZDCCJil5i0=
 			</data>
 		</dict>
 		<key>xros-arm64/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IJUPBDSUEk02dUZvBgFGKbAY5xc=
+			n2cHfqk5SA28l9mir2RjHYUD0S8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xgS2FIjY9Ym05J7sPYnjeyla/4+vjTNWIYYnH7y7UKA=
+			jmyWVL6LXJAluidCeZmcdjcGBpIn97Xl54/A7GmhdVI=
 			</data>
 		</dict>
 		<key>xros-arm64/RevenueCat.framework/Headers/RevenueCat.h</key>
@@ -2416,55 +2416,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2iGhV8P0WNwX8ZLiS42WFN9IgGg=
+			hybj/5uUsU+7ZLAj44kpOaNUpWI=
 			</data>
 			<key>hash2</key>
 			<data>
-			T4wC6D/ZmnoBGQbdfBfFm/aRi4ZLhufZCjy6J8VS4QA=
+			5W+YCJ1zdRH0t8y/YvKP9QaKpJhcVNImBAFS04qlgUQ=
 			</data>
 		</dict>
 		<key>xros-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8UQd9i7vgla7KTrkuPzWYvzDH/o=
+			khS7s5+uZpLzBSv0LvVDjxI5LpQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			FddRmT83UefTDpPmbTLmsOFFhCUgH+BA960kvM1jdwA=
+			cfvMOaBsTbep2hs5len1tJ3A1oqKXIycis+2QVSwcy8=
 			</data>
 		</dict>
 		<key>xros-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iqv5niLigj5wkZ1yJcJXtogg01A=
+			dZ7WBzo1b2295n7Tl5KHVmhyQKg=
 			</data>
 			<key>hash2</key>
 			<data>
-			OAy6PjlrJ67N6GGOSLSguEFmO1mDaImwgBORbQgt4lM=
+			APapt58YM7o7E8ZCUGEIy/i/tcwH6ABsvkLRpJ7KiVA=
 			</data>
 		</dict>
 		<key>xros-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Zom/+/Yv8LxOuPVeuNRMKp0MB9I=
+			gvlEx7p1Ej+5Z7lUm1EdJw8APK8=
 			</data>
 			<key>hash2</key>
 			<data>
-			LtGz1P2ynzsPQxH1KW9wxG9mdZ7J2HGMPxEgQXD2HZQ=
+			ZBdQ037I0/W8/l9EBMe1LHWvIlUq4275rkBkZ5EcsyI=
 			</data>
 		</dict>
 		<key>xros-arm64/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iqv5niLigj5wkZ1yJcJXtogg01A=
+			dZ7WBzo1b2295n7Tl5KHVmhyQKg=
 			</data>
 			<key>hash2</key>
 			<data>
-			OAy6PjlrJ67N6GGOSLSguEFmO1mDaImwgBORbQgt4lM=
+			APapt58YM7o7E8ZCUGEIy/i/tcwH6ABsvkLRpJ7KiVA=
 			</data>
 		</dict>
 		<key>xros-arm64/RevenueCat.framework/Modules/module.modulemap</key>
@@ -2493,55 +2493,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jxiR3McFK6JPVxlNL/SWEyv23OY=
+			iC1+D4RnP5EAw51mgDDzVNtUjNI=
 			</data>
 			<key>hash2</key>
 			<data>
-			BCCSeri1tGyfAnB0wU3cfnFeSLBHtlAN423BrNGAe+E=
+			4y3X4CItqLw76YUz4J4HxqcLe6hXL5uE1JlVXC/btbQ=
 			</data>
 		</dict>
 		<key>xros-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hu2EGOdabWGKRTrPyzXeU6qJhPk=
+			Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0XjAmhoBdWCwce7et6FRH63+yoifld4HJfeUH3LI0w=
+			SF8txbM9e5shpin/3FovsIdYwMFW4c2Q10Yr08f5kgI=
 			</data>
 		</dict>
 		<key>xros-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4rh0ILLvPvuKyn7vZJz06+RSy5M=
+			8reqflsIGe8GihWcpdlJ5gDnc7k=
 			</data>
 			<key>hash2</key>
 			<data>
-			IfO+kBbXqbJUoa5f1uSedfx+wg9DNYrb50m0EM/Tvsg=
+			5a/GhcdHSTeXCnVJwT2nJddehHXVRMn+4km2ONFhXlE=
 			</data>
 		</dict>
 		<key>xros-arm64/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e2C8LelEKV5mu8OPj6ECOJK1Xk8=
+			Bf4cKKB8UCDqPUAlJy48tzhDe7k=
 			</data>
 			<key>hash2</key>
 			<data>
-			5kAdAZ3YstRdsceYux5cWxLJXy3k2cfWvyOMsv3LY1s=
+			ak29TqWVkH+KuFFEB92tPoQuTOA3/tTwQ/tdcz0OkeI=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vi67CxP5RzF4f3DaIt9mtyCQ9kc=
+			0b9m1boMWWcm42c1s3KgqYYg90U=
 			</data>
 			<key>hash2</key>
 			<data>
-			XTIk4LMVnKgI7fE1HI1x075i4k4le025X3AXd6R2jbE=
+			1rS2ZEJg/7IMAl6gtwMgt77YnxiK6IivPaG1lC5mhF0=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Headers/RevenueCat.h</key>
@@ -2559,99 +2559,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j/ZW1Ys9/yf13hc1NC9yPcbnjmk=
+			Fqa5K+heUa17t2eIMKC+If+z1Z8=
 			</data>
 			<key>hash2</key>
 			<data>
-			5S1rZ9dwYPbGIMqPnyPQM0rhKC66F6U1d67+RvvSr/w=
+			ipt+MZqAwaS2Ft+cRTTO5xUQXWqbXeSQtC4Jw++1lB4=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vN7CHB6U1TlXrdsEdwiTbMjbAxA=
+			Y0mImhysCCKFlQLoCoq2kBxy6CM=
 			</data>
 			<key>hash2</key>
 			<data>
-			yCNWFAiXfsPMKyvZi9kdEH5W5x/wOavE4ZlZrhf+FKY=
+			aAMa/l0ocZ+ErHaliuhb8v6eB3gFkFMld9iLiG7DBXA=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N750ohLVg7P15ZvXd5wtO7w/g9U=
+			S4gStrxGSIx0Oqvr1QgA4rMPuiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			UJaL5dX+zkUzSUgSiFbeaIJ8RgSed6k2e9Ge7jtOtcU=
+			KnYQMDhl3h8Ipe+5cJsBgCgit/oh+LD7WUxLTY8VHww=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TPD877g++ls2d6OZJ6Cm5h9LTPs=
+			saQx2FBoVo3nl0vBciq/mFydFNs=
 			</data>
 			<key>hash2</key>
 			<data>
-			M3meTnJ8wt5WfFhflNnNkdy4mOhtMnLslAWWb9NGoG4=
+			+HGWZ81ymcifaWNC2uXEDrmi1+RXa2iERXglkUJjvyU=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N750ohLVg7P15ZvXd5wtO7w/g9U=
+			S4gStrxGSIx0Oqvr1QgA4rMPuiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			UJaL5dX+zkUzSUgSiFbeaIJ8RgSed6k2e9Ge7jtOtcU=
+			KnYQMDhl3h8Ipe+5cJsBgCgit/oh+LD7WUxLTY8VHww=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vN7CHB6U1TlXrdsEdwiTbMjbAxA=
+			Y0mImhysCCKFlQLoCoq2kBxy6CM=
 			</data>
 			<key>hash2</key>
 			<data>
-			yCNWFAiXfsPMKyvZi9kdEH5W5x/wOavE4ZlZrhf+FKY=
+			aAMa/l0ocZ+ErHaliuhb8v6eB3gFkFMld9iLiG7DBXA=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pyxDTvl2VRCvpuUWTsBqt620XOE=
+			t9RjBKutFr8CX4cse1AqyIazZDQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			N+WeWwhMzd/DCChJAaEHOEOJaxY+PvQWonoSPrz51gg=
+			rCAq2FPcvKiwW42J4HdWQyaZ9OazLUnE+zcdkTpdPVU=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ChFoNv5HH91I9MKOA3PXY6iXmw4=
+			SFoNq9xNZkQYs3Qdz5vqIKQpRns=
 			</data>
 			<key>hash2</key>
 			<data>
-			tA/M7f2P3UwtO/XB7MWSftjB420lUarIHB0vaS71zK4=
+			kzQiHQ9htTB0KXtlhM/A1ZEffVW10w3jrawE3hru6Yw=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/RevenueCat.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pyxDTvl2VRCvpuUWTsBqt620XOE=
+			t9RjBKutFr8CX4cse1AqyIazZDQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			N+WeWwhMzd/DCChJAaEHOEOJaxY+PvQWonoSPrz51gg=
+			rCAq2FPcvKiwW42J4HdWQyaZ9OazLUnE+zcdkTpdPVU=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/Modules/module.modulemap</key>
@@ -2680,66 +2680,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9Xj84rybg2Q8DmAmglHfMd2QcwM=
+			3WpUg/AE5oDB5qdHYSdjc6YQaHQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			R/s5n5p9wnSlT5fXE6lXLsQT7oGbylW6nHJOc6yUhCM=
+			8pQaPlCC6oGxhBj8FC5w2LEXOKTKOtD7wuUmNCm/Ahg=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/RevenueCat.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dVDJqkp1F1YVMM6RynmF/47STzY=
+			FROgVWsSx1p67+tTM9ZryiQJNdI=
 			</data>
 			<key>hash2</key>
 			<data>
-			g9wRD8nPASimKN/wJeG/juJmNr1PJgOO4+iEG3l2ByA=
+			snGOrY4m1zxD5sDuiw1suFGvNPuTlcG4Z2cz82T2Vbs=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hu2EGOdabWGKRTrPyzXeU6qJhPk=
+			Wl3cALEM4ll7zFpkKOmlOj3aXHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0XjAmhoBdWCwce7et6FRH63+yoifld4HJfeUH3LI0w=
+			SF8txbM9e5shpin/3FovsIdYwMFW4c2Q10Yr08f5kgI=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/DWARF/RevenueCat</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TaU9Pq8Zul7kOc3bR9kDUlRMMs0=
+			Z9rP1OM08APPxDilYgjHrFcy2oo=
 			</data>
 			<key>hash2</key>
 			<data>
-			esZyJb4ejx9gcoIyMpHUstQI65irGbZi14JGIk405qk=
+			acBrX3h/CFGo6wzSZ3w8w8l2UJWOSJx961CVG1v5V2c=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/aarch64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FQyJE7XNF5o7fx9+0M13ZFxxk68=
+			gxNvmsCynINZ5skuo6qmvHV5PXE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y0I9o1gXyi9fEMkddtaORR5J4HsPhvcbTDmV4QRIQXc=
+			wdSi6zKC9XJwR0A2Y9kXTPX8wQQKD3WBl7NbdliE8vc=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/dSYMs/RevenueCat.framework.dSYM/Contents/Resources/Relocations/x86_64/RevenueCat.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S7wYAUEkufRPXV9UpH2jypkiXXo=
+			w+UGStR1W4cQXknkI7WcFz0+/OM=
 			</data>
 			<key>hash2</key>
 			<data>
-			MKd5HoyC7iGKmFlzWf4rlnDbsSm94LKeNnUjAxa2P/s=
+			kpvD718EDdxeFhJQ/VW2xiEWJDw0/qcDulhwnHPAxnc=
 			</data>
 		</dict>
 	</dict>
