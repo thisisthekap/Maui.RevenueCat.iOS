@@ -6,16 +6,12 @@ trigger:
 pr: none
 
 pool:
-  vmImage: 'macOS-13'
+  vmImage: 'macOS-15'
 
 variables:
   - group: nuget.org
 
 steps:
-
-- bash: |
-    sudo xcode-select -s /Applications/Xcode_15.2.app/Contents/Developer
-  displayName: pin xcode version to 15.2
 
 - task: UseDotNet@2
   inputs:
